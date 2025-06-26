@@ -1,0 +1,126 @@
+Briscola Regina - Règles non-officielles (jeu de cartes)
+Version Regina Assumpta (de mémoire, 25 ans plus tard)
+__________        .__                    .__           __________              .__               
+\______   \_______|__| ______ ____  ____ |  | _____    \______   \ ____   ____ |__| ____ _____   
+ |    |  _/\_  __ \  |/  ___// ___\/  _ \|  | \__  \    |       _// __ \ / ___\|  |/    \\__  \  
+ |    |   \ |  | \/  |\___ \\  \__(  <_> )  |__/ __ \_  |    |   \  ___// /_/  >  |   |  \/ __ \_
+ |______  / |__|  |__/____  >\___  >____/|____(____  /  |____|_  /\___  >___  /|__|___|  (____  /
+        \/                \/     \/                \/          \/     \/_____/         \/     \/ 
+
+Par Vincent Labrèche 2K25
+v.labreche@gmail.com
+
+Inspiration originale: Robert, Bobyk et les autres.
+
+
+==============
+= Les cartes =
+==============
+On utilise un jeu de cartes italiennes standard de 40 cartes.
+Peut être adapté pour un jeu de cartes standard de 52 cartes.
+
+Le jeu se divise en quatre sortes/familles:
+-Denar
+-Cup
+-Spart
+-Baston
+
+Chaque famille est composée de 10 cartes, présentées ci-bas par ordre de force:
+
+	+-------+-----+
+	| As    | 11  |
+	+-------+-----+
+	| Trois | 10  |
+	+-------+-----+
+	| Roi   |  4  |
+	+-------+-----+
+	| Caval |  3  |
+	+-------+-----+
+	| Valet |  2  |
+	+-------+-----+
+	| Sept  |  0  |
+	+-------+-----+
+	| Six   |  0  |
+	+-------+-----+
+	| Cinq  |  0  |
+	+-------+-----+
+	| Quatre|  0  |
+	+-------+-----+
+	| Deux  |  0  |
+	+-------+-----+
+	===============
+	+-------+-----+-----+-----+
+	| Total | 30  |  x4 | 120 |
+	+-------+-----+-----+-----+
+
+
+=====================
+= Nombre de joueurs =
+=====================
+Le jeu se joue le mieux 2v2, mais se joue bien en 1v1.  Il pourrait même être adapté pour 3 ou 5?
+
+
+===============
+= Préparation =
+===============
+On distribue 5 cartes à chaque joueur.
+Le reste des cartes est placé au centre de la table et formera la pioche.
+Le joueur à droite du donneur entame.
+Le jeu se poursuit en sens anti-horaire.
+
+==========
+= Le jeu =
+==========
+Le jeu est divisé en plis ou levées.
+Une levée est composée d'une carte de chaque joueur.
+
+La levée est remportée par:
+-L'atout le plus élevé;
+ou
+-La carte la plus forte dans la sorte demandée. (La sorte de la carte jouée par le premier joueur.)
+
+Il n'est pas obligatoire de fournir. (Jouer dans la sorte demandée si on possède une carte de cette sorte.)
+Il n'est pas obligatoire de couper. (Jouer un atout si vous en possédez un et que vous n'avez plus de cartes de la sorte demandée.)
+
+Le vainqueur de la levée ramasse les cartes et les place face vers le bas proche de lui.
+Elles seront comptabilisées en fin de partie.
+
+En commençant par le vainqueur, et procédant dans l'ordre de jeu, chaque joueur pige une carte.
+
+Le vainqueur entame le prochain pli.
+
+
+=====================
+= Actions Spéciales =
+=====================
+Caller La Bris:
+En révélant le Roi et le Caval de la même sorte aux autres joueurs, on "Call la Bris".
+Cette action définit l'atout pour le restant de la partie.
+Elle vaut 40 pts.
+(Seulement à son tour? ou n'importe quand?)
+
+Brish supplémentaire:
+Il est possible de caller d'autres Bris, elles n'influencent pas l'atout et valent 20 pts.
+
+Échange des mains:
+Lorsque la pioche est épuisée, les partenaires peuvent échanger leurs mains afin d'élaborer une stratégie.
+Cette intervention se doit d'être brève.
+
+
+==================
+= Communications =
+==================
+Contrairement à la majorité des jeux, il est permis de parler de nos cartes avec notre partenaire, la communication doit rester relativement générique.
+Quelques exemples:
+Refusé: "J'ai le 2 de Spart" Accepté:"J'ai un petit Spart"
+Refusé: "J'ai le Caval de Baston" Accepté: "Possibilité Baston"
+
+
+=================
+= Fin de partie =
+=================
+Lorsque toutes les cartes auront été jouées, les équipes comptabilisent leurs points.
+L'équipe avec le plus de points gagne.
+
+On joue généralement des 2 de 3, 3 de 5 ou 4 de 7.
+On peut aussi jouer pour un total de points au lieu d'un nombre de victoires.
