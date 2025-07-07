@@ -20,10 +20,10 @@ On utilise un jeu de cartes italiennes standard de 40 cartes.
 Peut être adapté pour un jeu de cartes standard de 52 cartes.
 
 Le jeu se divise en quatre sortes/familles:
--Denar
--Cup
--Spart
--Baston
+-Denari
+-Coppe
+-Sparte
+-Bastoni
 
 Chaque famille est composée de 10 cartes, présentées ci-bas par ordre de force:
 
@@ -57,7 +57,7 @@ Chaque famille est composée de 10 cartes, présentées ci-bas par ordre de forc
 =====================
 = Nombre de joueurs =
 =====================
-Le jeu se joue le mieux 2v2, mais se joue bien en 1v1.  Il pourrait même être adapté pour 3 ou 5?
+Le jeu se joue le mieux 2v2, mais se joue bien en 1v1. Peut être joué à 3 ou 5 également, quoique bien inférieur.
 
 
 ===============
@@ -93,14 +93,23 @@ Le vainqueur entame le prochain pli.
 =====================
 = Actions Spéciales =
 =====================
-Caller La Bris:
-En révélant le Roi et le Caval de la même sorte aux autres joueurs, on "Call la Bris".
+Appeler La Bris:
+En révélant le Roi et le Caval de la même sorte aux autres joueurs, on "Appelle La Bris".
 Cette action définit l'atout pour le restant de la partie.
-Elle vaut 40 pts.
-(Seulement à son tour? ou n'importe quand?)
+Elle vaut 0 pts.
+Elle peut être appelée n'importe quand.
 
-Brish supplémentaire:
-Il est possible de caller d'autres Bris, elles n'influencent pas l'atout et valent 20 pts.
+Bris supplémentaire:
+Il est possible d'appeler d'autres Bris, elles n'influencent pas l'atout et valent 10 pts de plus que la précédente.
+
++---+-----+
+| # | pts |
++---+-----+
+| 1 |   0 |
+| 2 |  10 |
+| 3 |  20 |
+| 4 |  30 |
++---+-----+
 
 Échange des mains:
 Lorsque la pioche est épuisée, les partenaires peuvent échanger leurs mains afin d'élaborer une stratégie.
