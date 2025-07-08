@@ -32,7 +32,7 @@ Début du jeu:
 
 2.Une fois le premier joueur déterminé, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".  Le premier joueur prend une des piles (potager et main de départ) et les deux autres joueurs font de même.
 
-3.Chaque joueur prépare ses fleurs de la manière dont il le désire, chaque fleur doit avoir le même nombre de pétale (optionnel), l'ordre de placement n'a pas d'importance.  Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme circulaire.  Ces cercles constituent les fleurs de chaque joueur. Par défaut, chaque joueur aura 4 fleurs de 4 pétales, les variantes à plus ou moins de joueurs pourrainent avoir soit 3 fleurs de 3 pétales, 3 fleurs de 4 pétales, 4 fleurs de 3 pétales, etc.
+3.Chaque joueur prépare ses fleurs de la manière dont il le désire.  Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme circulaire.  Ces cercles constituent les fleurs de chaque joueur. Par défaut, chaque joueur aura 4 fleurs de 4 pétales, les variantes à plus ou moins de joueurs pourraient avoir soit 3 fleurs de 3 pétales, 3 fleurs de 4 pétales, 4 fleurs de 3 pétales, etc.
 
 4.Le potager de chaque joueur est divisé en deux zones distinctes: Les fleurs régulières à l'avant et les POWER FLOWER à l'arrière (expliqué plus loin).
 
@@ -40,24 +40,24 @@ Début du jeu:
 
 Zone de jeu typique à deux joueurs:
  __________________
-|                  |
-|  POWER FLOWERs   |
-|__________________|
-|                  |
-| Fleurs régulières|
-|__________________|
+|                   |
+|   POWER FLOWERs   |
+|___________________|
+|                   |
+| Fleurs Régulières |
+|___________________|
 
      __     __
     |__|   |__|
    Pioche GraveRyard      
 
- __________________
-|                  |
-| Fleurs régulières|
-|__________________|
-|                  |
-|  POWER FLOWERs   |
-|__________________|
+ ___________________
+|                   |
+| Fleurs Régulières |
+|___________________|
+|                   |
+|   POWER FLOWERs   |
+|___________________|
 
 
 
@@ -124,24 +124,3 @@ Fin du jeu:
 Le vainqueur est le dernier joueur vivant!
 En cas de mort simultanée des deux joueurs, celui avec le plus grand nombre de cartes en main gagne la partie.
 En cas d'égalité, on procède à un "pareil, pas-pareil" comme pour décider du premier joueur.
-
-
-
-Historique:
-Maintenant sur github: https://github.com/Dindon42/FlowerPower.git - fin de l'historique ci-bas.
-V6: Saint-Donat, Mai 2025
-- Petites modifications 
-v5: SADM QC, Avril 2022
-- Migration vers GitHub.
-v4: Golden BC, Mars 2013
--Ajout de la todo list (pour améliorer le jeu), porter le document sur google drive.
-v3: Sea-Shack, mai 2012
--limite de deux pioches consécutives;
--ajout du suicide tactique et de la dernière volonté.
--Ajout d'une description de l'ordre du tour.
-v2: plusieurs améliorations suite aux Chics-Chocs 2011-2012
--rafinement des règles
--beta testing par LP et Julien
--ajout du graphique de la zone de jeu.
-v1: version initiale des règles
-

@@ -1,0 +1,111 @@
+  ______ _      ______          ________ _____    _____   ______          ________ _____  
+ |  ____| |    / __ \ \        / /  ____|  __ \  |  __ \ / __ \ \        / /  ____|  __ \ 
+ | |__  | |   | |  | \ \  /\  / /| |__  | |__) | | |__) | |  | \ \  /\  / /| |__  | |__) |
+ |  __| | |   | |  | |\ \/  \/ / |  __| |  _  /  |  ___/| |  | |\ \/  \/ / |  __| |  _  / 
+ | |    | |___| |__| | \  /\  /  | |____| | \ \  | |    | |__| | \  /\  /  | |____| | \ \ 
+ |_|  __|______\____/  _\/__\/  _|______|_|  \_\_|_|  ___\____/___\/  \/   |______|_|  \_\
+ |  \/  |/ __ \|  __ \|  ____| |__   __|/\   |  __ \ / __ \__   __|                       
+ | \  / | |  | | |  | | |__       | |  /  \  | |__) | |  | | | |                          
+ | |\/| | |  | | |  | |  __|      | | / /\ \ |  _  /| |  | | | |                          
+ | |  | | |__| | |__| | |____     | |/ ____ \| | \ \| |__| | | |                          
+ |_|  |_|\____/|_____/|______|    |_/_/    \_\_|  \_\\____/  |_|      
+ 
+  ___  _  _____  _____        ___ ______       ___    __  
+ |__ \| |/ /__ \| ____|      / _ \____  |     / _ \  / /  
+    ) | ' /   ) | |__ ______| | | |  / /_____| | | |/ /_  
+   / /|  <   / /|___ \______| | | | / /______| | | | '_ \ 
+  / /_| . \ / /_ ___) |     | |_| |/ /       | |_| | (_) |
+ |____|_|\_\____|____/       \___//_/         \___/ \___/ 
+
+Par Vincent Labrèche
+v.labreche@gmail.com
+
+Et
+
+Adrien Labrèche
+
+
+Cet appendice liste un ensemble de règles supplémentaires pour Flower Power afin de jouer avec un jeu de Tarot.
+
+
+Préparation:
+Nécéssite un jeu de Tarot standard de 78 cartes.
+
+Séparer en 2 pioches:
+-Les 56 cartes de couleur;
+-Les 22 atouts (inclure L'Excuse);
+
+Pour un jeu à 2 joueurs:
+Distribuer 20 cartes de couleur pour les fleurs;
+Distribuer 4 cartes de couleur pour la main;
+Distribuer 2 atouts pour la main;
+
+Pour un jeu à 3 joueurs:
+Distribuer 15 cartes de couleur pour les fleurs;
+Distribuer 2 cartes de couleur pour la main;
+Distribuer 3 atouts pour la main;
+
+
+
+Zone de jeu typique à deux joueurs:
+ ______________________________ ___
+|                              |   |
+|         POWER FLOWERs        |   |
+|______________________________| B |
+|                              | P |
+|       Fleurs régulières      |   |
+|______________________________|___|
+
+   ___   ___     ___     ___
+  |_4_| |_3_|   |_1_|   |_2_|
+
+ ______________________________ ___
+|                              |   |
+|       Fleurs Régulières      |   |
+|______________________________| B |
+|                              | P |
+|         POWER FLOWERs        |   |
+|______________________________|___|
+
+1: Pioche Couleurs
+2: Défausse Couleurs
+3: Pioche Atouts
+4: Défausse Atouts
+BP: Bonus Permanent
+
+
+La puissance des cartes est la suivante, dans l'ordre décroissant: 
+Roi=14
+Dame=13
+Cavalier=12
+Valet=11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Rôle des 3 bouts:
+21 d'atout: Bonus Permanent - Attaque +1
+1 d'atout: Bonus Permanent - Défense +1
+Excuse - 2 options:
+	->Faire échouer une attaque directement, aucune parade possible.
+	->Piocher 2 cartes
+	
+Rôles des autres atouts (2 -> 20):
+Équipement: L'atout peut être équipé à un pétale, lui conférant en bonus la valeur de l'atout.
+Maximum 1 atout équipé par pétale.
+
+Ne peuvent pas être utilisés pour construire de nouvelles fleurs.
+
+
+Pique (carte en main): Les pétales équipés d'atouts n'ont pas plus de défense contre les Piques.
+Un roi de pique (14) peut tuer un valet (11) équipé du 20 d'atout (31), car 14>=11, même si 31>14.
+
+
+Pioche: lorsqu'un joueur doit piocher une carte, il doit choisir entre un atout ou une carte de couleur.
