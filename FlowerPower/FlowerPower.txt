@@ -62,13 +62,22 @@ Zone de jeu typique à deux joueurs:
 
 
 Rôle des cartes en main:
-Coeur: Engrais (+1 petale sur une fleur (n'importe où sur la fleur, pas nécessairement sur le dessus; sa propre fleur ou celle de l'ennemi, le chiffre influence la puissance du pétale, peut être ajouté à une POWER FLOWER.)
+Coeur: Engrais
++1 petale sur une fleur.
+N'importe où sur la fleur, pas nécessairement sur le dessus; sa propre fleur ou celle de l'ennemi, le chiffre influence la puissance du pétale, peut être ajouté à une POWER FLOWER.
 
-Trèfle: Espion (droit d'espionner soit une fleur entière (sa propre fleur ou celle de l'adversaire) ou soit la main d'un autre joueur) On met la carte au GraveRyard une fois utilisée.
+Trèfle: Espion
+Droit d'espionner une fleur entière, sa propre fleur ou celle de l'adversaire. L'ordre des pétales doit être conservé.
+Ou la main d'un autre joueur.
+On met la carte au GraveRyard une fois utilisée.
 
-Carreau: POWER FLOWER (Transforme une fleur en super-fleur, on déplace la fleur dans la zone POWER FLOWER, tous les pétales sont retournés, puis, à l'attaque comme à la défense, on choisit quel est le pétale combattant au moment de la résolution.)  On met la carte au GraveRyard une fois utilisée.
+Carreau: POWER FLOWER
+Transforme une fleur en super-fleur, on déplace la fleur dans la zone POWER FLOWER, tous les pétales sont retournés, puis, à l'attaque comme à la défense, on choisit quel est le pétale combattant au moment de la résolution.
+On met la carte au GraveRyard une fois utilisée.
 
-Pique: Poison (détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix. Peut cibler sa propre fleur.)  On met la carte au GraveRyard une fois utilisée.
+Pique: Poison
+Détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix. Peut cibler sa propre fleur.
+On met la carte au GraveRyard une fois utilisée.
 
 Joker Rouge: Cœur ou Carreau.
 Joker Noir: Pique ou Trèfle.
