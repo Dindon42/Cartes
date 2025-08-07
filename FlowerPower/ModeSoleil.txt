@@ -13,19 +13,30 @@
 
 
 
+Dans ce nouveau mode, le Soleil doit réussir à prouver sa suprématie contre une horde de jardiniers obscurs.
+C'est une bataille à la mort!
 
-enlève le concept des résister x tours, c'est une bataille à la mort!
-
-Les jardiniers attaquent tous en même temps ils ne pourront et peuvent jouer des cartes pour s'aider l'un l'autre.
+Les jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'aider l'un l'autre. Ils peuvent combiner leur forces pour attaquer un seul pétale. Ils n'ont qu'une attaque par tour.
 
 Chaque pétale du Soleil agit comme une fleur de 1 pétale.
 
-Le soleil à des pouvoirs spéciaux :
+Le Soleil ne gagné pas les fleurs des jardiniers.
+
+Le Soleil à des pouvoirs spéciaux :
 Coeur: Lorsqu'il joue un coeur, piocher une carte et l'utiliser comme si c'était un coeur.
-Carreau: Lors de la déclaration d'une Power Flower, piocher une carte et ajoutez-la sur cette fleur.
-Trèfle: Si utilisé sur une fleur, l'espion permet également de réordonner les pétales. Si utilisé sur la main, force l'ennemi à jeter une carte.
+Carreau: Lors de la déclaration d'une Power Flower, ajouter le carreau ainsi utilisé à cette fleur.
+Trèfle: Si utilisé sur une fleur, l'espion permet également de réordonner les pétales. Si utilisé sur la main, force le jardinier à jeter une carte.
 Pique: Peut être combiné avec une autre carte (n'importe quelle couleur) pour créer un poison plus puissant (somme des deux cartes)
 
+Pouvoir permanent de régénération: À la fin de son tour, le Soleil pioche et ajoute un pétale à sa fleur.
+
+Pouvoir Spécial: Éclipse
+Une fois par partie, le Soleil peut faire automatiquement échouer l'attaque des jardiniers
+
+Pouvoir Spécial: Éruption Solaire
+Une fois par partie, le Soleil peut griller un pétale exposé dans le Potager de chaque Jardinier.
+
+mode tarot - les atouts sont inchangés.
 
 
 
