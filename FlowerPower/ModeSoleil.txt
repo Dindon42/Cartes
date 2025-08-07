@@ -14,14 +14,25 @@ Dans ce nouveau mode, le Soleil doit réussir à prouver sa suprématie contre u
 
 C'est une bataille à la mort!
 
+
+--------------------------
 L'Alliance des Jardiniers:
+--------------------------
 Les Jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'aider l'un l'autre. Ils peuvent combiner leur forces pour attaquer un même pétale du Soleil (somme des pétales à la résolution). Ils n'ont qu'une attaque par tour. Ils jouent et gagnent en équipe.
 
+
+-----------------------
 L'Obscurité des Ombres:
-Les plus obscurs des Jardiniers peuvent se transformer en Ombre, ce qui leur confère la possibilité de gagner seuls s'ils sont les derniers vivants. Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers, permettant des attaques bilatérales avec captures de fleurs.
+-----------------------
+Les plus obscurs des Jardiniers peuvent se transformer en Ombre, ce qui leur confère la possibilité de gagner seuls s'ils sont les derniers vivants.
+Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers, permettant des attaques bilatérales avec captures de fleurs.
+Cette action doit être déclarée au début du tour des Jardiniers et l'Ombre pioche 2 cartes.
 
-
+----------
 Le Soleil:
+----------
+Le Soleil dispose ses cartes pétales en cercle.
+
 Chaque pétale du Soleil agit comme une fleur de 1 pétale.
 
 Le Soleil ne gagne pas les fleurs des Jardiniers/Ombres.
@@ -32,7 +43,7 @@ Coeur: Lorsqu'il joue un coeur, piocher une carte et l'utiliser comme si c'étai
 
 Carreau: Lors de la déclaration d'une Power Flower, ajouter le carreau ainsi utilisé à cette fleur.
 
-Trèfle: Si utilisé sur une fleur, l'espion permet également de réordonner les pétales. Si utilisé sur la main, force le jardinier à jeter une carte.
+Trèfle: Si utilisé sur une fleur, l'espion permet également de réordonner les pétales. Si utilisé sur la main, force le jardinier à jeter une carte de son choix.
 
 Pique: Peut être combiné avec une autre carte (n'importe quelle couleur) pour créer un poison plus puissant (somme des deux cartes)
 
@@ -47,15 +58,23 @@ Une fois par partie, le Soleil peut faire automatiquement échouer l'attaque des
 Pouvoir Spécial: Éruption Solaire
 Une fois par partie, le Soleil peut griller un pétale exposé dans le Potager de chaque Jardinier/Ombre.
 
+Limitations:
+Le soleil ne peut pas créer de nouvelles fleurs avec ses cartes en main.
 
+Le Soleil doit attaquer à chaque tour (interdit de piocher)
 
-Ordre du tour :
+Le Soleil peut attaquer autant de fois qu'il le souhaite, mais doit arrêter son tour des qu'une attaque a réussi.
+
+--------------
+Ordre du tour:
+--------------
 Jardiniers
 Soleil
 Ombres
 
-
-Mode Tarot :
+-----------
+Mode Tarot:
+-----------
 Les atouts sont inchangés.
 
 
