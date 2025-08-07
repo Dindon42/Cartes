@@ -25,7 +25,7 @@ Les Jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'
 L'Obscurité des Ombres:
 -----------------------
 Les plus obscurs des Jardiniers peuvent se transformer en Ombre, ce qui leur confère la possibilité de gagner seuls s'ils sont les derniers vivants.
-Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers, permettant des attaques bilatérales avec captures de fleurs.
+Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers (et aux autres Ombres), permettant des attaques bilatérales avec captures de fleurs.
 Cette action doit être déclarée au début du tour des Jardiniers et l'Ombre pioche 2 cartes.
 
 ----------
@@ -53,7 +53,7 @@ Pouvoir permanent de régénération:
 À la fin de son tour, le Soleil pioche et ajoute un pétale à sa fleur.
 
 Pouvoir Spécial: Éclipse
-Une fois par partie, le Soleil peut faire automatiquement échouer l'attaque des Jardiniers/Ombre. 
+Une fois par partie, le Soleil peut faire automatiquement échouer l'attaque des Jardiniers/d'une Ombre. 
 
 Pouvoir Spécial: Éruption Solaire
 Une fois par partie, le Soleil peut griller un pétale exposé dans le Potager de chaque Jardinier/Ombre.
@@ -68,9 +68,9 @@ Le Soleil peut attaquer autant de fois qu'il le souhaite, mais doit arrêter son
 --------------
 Ordre du tour:
 --------------
-Jardiniers
+Jardiniers (tous en même temps)
 Soleil
-Ombres
+Ombres (Chacun son tour)
 
 -----------
 Mode Tarot:
