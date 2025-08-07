@@ -13,11 +13,14 @@
 
 
 
-Dans ce nouveau mode, le Soleil doit réussir à prouver sa suprématie contre une horde de jardiniers obscurs.
+Dans ce nouveau mode, le Soleil doit réussir à prouver sa suprématie contre une horde de Jardiniers obscurs.
 C'est une bataille à la mort!
 
-Les jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'aider l'un l'autre. Ils peuvent combiner leur forces pour attaquer un seul pétale. Ils n'ont qu'une attaque par tour.
+Les Jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'aider l'un l'autre. Ils peuvent combiner leur forces pour attaquer un même pétale du Soleil (somme des pétales à la résolution). Ils n'ont qu'une attaque par tour. Ils jouent et gagnent en équipe.
 
+Ils peuvent aussi se transformer en Ombre, ce qui leur donne la possibilité de gagner seuls s'ils sont les derniers vivants. Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers, permettant des attaques bilatérales.
+
+Le Soleil:
 Chaque pétale du Soleil agit comme une fleur de 1 pétale.
 
 Le Soleil ne gagné pas les fleurs des jardiniers.
