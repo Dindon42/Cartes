@@ -14,9 +14,17 @@
 
 
 
-enlève le concept des résister x tours, c'est une bataille à la mort! 
+enlève le concept des résister x tours, c'est une bataille à la mort!
+
 Les jardiniers attaquent tous en même temps ils ne pourront et peuvent jouer des cartes pour s'aider l'un l'autre.
 
+Chaque pétale du Soleil agit comme une fleur de 1 pétale.
+
+Le soleil à des pouvoirs spéciaux :
+Coeur: Lorsqu'il joue un coeur, piocher une carte et l'utiliser comme si c'était un coeur.
+Carreau: Lors de la déclaration d'une Power Flower, piocher une carte et ajoutez-la sur cette fleur.
+Trèfle: Si utilisé sur une fleur, l'espion permet également de réordonner les pétales. Si utilisé sur la main, force l'ennemi à jeter une carte.
+Pique: Peut être combiné avec une autre carte (n'importe quelle couleur) pour créer un poison plus puissant (somme des deux cartes)
 
 
 
