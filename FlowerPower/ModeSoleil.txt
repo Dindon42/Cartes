@@ -25,8 +25,8 @@ Les Jardiniers attaquent tous en même temps et peuvent jouer des cartes pour s'
 L'Obscurité des Ombres:
 -----------------------
 Les plus obscurs des Jardiniers peuvent se transformer en Ombre, ce qui leur confère la possibilité de gagner seuls s'ils sont les derniers vivants.
-Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers (et aux autres Ombres), permettant des attaques bilatérales avec captures de fleurs.
-Cette action doit être déclarée au début du tour des Jardiniers et l'Ombre peut retourner tous ses pétales visibles.
+Attention par contre... Dans cette nouvelle forme, ils déclarent la guerre aux Jardiniers (et aux autres Ombres), permettant des attaques bilatérales avec captures de fleurs (comme dans le jeu de base).
+Cette action doit être déclarée au début du tour des Jardiniers et l'Ombre peut cacher tous ses pétales visibles (sauf Power Flower).
 
 ----------
 Le Soleil:
@@ -42,7 +42,7 @@ Lors d'une attaque réussie, les pétales ayant combattu sont retirés du jeu.
 Le Soleil doit attaquer à chaque tour (interdit de piocher)
 
 Attaque en chaîne:
-Le Soleil peut attaquer autant de fois qu'il le souhaite, mais doit arrêter son tour dès qu'une attaque échoue.
+Le Soleil peut attaquer autant de fois qu'il le souhaite, mais doit arrêter son tour dès qu'une attaque échoue, ou si tous ses pétales ont combattu.
 
 Rôle des cartes en main:
 Coeur: Lorsque le Soleil joue un coeur, piocher une carte et l'utiliser comme si c'était un coeur.
@@ -55,6 +55,7 @@ Pique: Peut être combiné avec une autre carte (n'importe quelle sorte) pour cr
 
 
 Autres pouvoirs:
+
 Pouvoir permanent de régénération:
 À la fin de son tour, le Soleil pioche et ajoute un pétale à sa fleur.
 
@@ -62,7 +63,7 @@ Pouvoir Spécial: Éclipse
 Une fois par partie, le Soleil peut faire automatiquement échouer l'attaque des Jardiniers/d'une Ombre. 
 
 Pouvoir Spécial: Éruption Solaire
-Une fois par partie, le Soleil peut griller un pétale exposé dans le Potager de chaque Jardinier/Ombre.
+Une fois par partie, le Soleil peut griller un pétale exposé dans le Potager de chaque Jardinier/Ombre. Les Power Flower sont immunisées contre ce pouvoir.
 
 Limitations:
 Le soleil ne peut pas créer de nouvelles fleurs avec ses cartes en main.
