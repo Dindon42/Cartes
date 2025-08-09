@@ -76,7 +76,7 @@ Transforme une fleur en super-fleur, on déplace la fleur dans la zone POWER FLO
 On met la carte au GraveRyard une fois utilisée.
 
 Pique: Poison
-Détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix. Peut cibler sa propre fleur.
+Détruit instantanément un pétale visible de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix. Peut cibler sa propre fleur.
 On met la carte au GraveRyard une fois utilisée.
 
 Joker Rouge: Cœur ou Carreau.
