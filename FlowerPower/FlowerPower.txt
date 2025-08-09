@@ -111,7 +111,7 @@ Attaque échouée: Les fleurs restent indemnes, mais la fleur ayant attaqué ne 
 
 
 Attaques - spécificités:
--Chaque fleur ne peut attaquer qu'une seule fois par tour, sauf dans le cas d'un joueur qui ne possède qu'une seule fleur, ce dernier, dans l'ultime espoir de survie, peut attaquer autant de fois qu'il le désire, jusqu'à ce qu'il triomphe ou qu'il sombre dans le désespoir.
+-Chaque fleur ne peut attaquer qu'une seule fois par tour, sauf dans le cas d'un joueur qui ne possède qu'une seule fleur, ce dernier, dans l'ultime espoir de survie, peut attaquer autant de fois qu'il le désire (max 1 attaque par fleur ennemie), jusqu'à ce qu'il triomphe ou qu'il sombre dans le désespoir.
 
 -Lors d'une bataille entre deux joueurs, seuls ces deux joueurs peuvent jouer des cartes de leur main pour influencer le sort de la bataille.
 
