@@ -115,7 +115,12 @@ Attaques - spécificités:
 
 -Lors d'une bataille entre deux joueurs, seuls ces deux joueurs peuvent jouer des cartes de leur main pour influencer le sort de la bataille.
 
--Dans le cas d'une égalité, on utilise la carte directement sous le pétale combattant pour déterminer le plus puissant.  Si les cartes sont face cachées, on les retourne pour les exposer.  Elles demeurent ainsi une fois  la bataille terminée.  Dans le cas d'une "Power Flower", le joueur choisit quelle carte brisera l'égalité.  On procède de même dans le cas d'une seconde égalité.  Dans le cas où il n'y a plus suffisament de pétale pour briser l'égalité (une fleur de 2 pétale vs une fleur de 1 pétale), la fleur la plus grosse l'emporte.  Dans le cas d'un nombre identique de pétale (1 pétale vs 1 pétale), les joueurs doivent absolument utiliser leurs cartes en main pour briser l'égalité.  Si aucun joueur ne peut briser l'égalité, l'attaque échoue.
+-Bris d'égalité:
+Dans le cas d'une égalité, une bataille à la mort s'engage. Interdiction de jouer des cartes jusqu'à ce que la bataille soit résolue (sauf cas spécial même nombre de pétales ci-bas).
+On utilise la carte directement sous le pétale combattant pour déterminer le plus puissant.  Si les cartes sont face cachées, on les retourne pour les exposer.  Elles demeurent ainsi une fois  la bataille terminée.
+Dans le cas d'une "Power Flower", le joueur choisit quelle carte brisera l'égalité.  On procède de même dans le cas d'une seconde égalité, etc...
+Dans le cas où il n'y a plus suffisament de pétale pour briser l'égalité (une fleur de 2 pétale vs une fleur de 1 pétale), la fleur la plus grosse l'emporte.
+Dans le cas d'un nombre identique de pétale (1 pétale vs 1 pétale), les joueurs doivent absolument utiliser leurs cartes en main pour briser l'égalité.  Si aucun joueur ne peut briser l'égalité, l'attaque échoue.
 
 -Dans le cas d'une POWER FLOWER, c'est toujours au moment de la résolution que le joueur choisit quel pétale attaque ou défend.  (ex.: après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4 et briser l'égalité.  Dans ce cas, il aurait le droit d'avoir un 4 à l'As.
 
