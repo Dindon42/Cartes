@@ -55,6 +55,8 @@ Pique: Peut être combiné avec une autre carte (n'importe quelle sorte) pour cr
 
 
 Autres pouvoirs:
+Pouvoir permanent de lumière: 
+Une fois par tour, le Soleil peut révéler un pétale caché.
 
 Pouvoir permanent de régénération:
 À la fin de son tour, le Soleil pioche et ajoute un pétale à sa fleur.
