@@ -89,7 +89,7 @@ Ordre du tour:
 3.Déclarer des attaques
     3.1 jouer des cartes de sa main avec réplique possible de l'adversaire (optionnel)
     3.2 Résoudre l'attaque
-4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois.
+4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois. Le joueur dont c'est le tour peut aussi décider de terminer son tour volontairement à cette étape.
 5.Pioche de victoire (dans le cas d'une attaque réussie)
 6.Dernière volonté, aucune réplique possible (dans le cas d'un suicide tactique)
 
