@@ -46,7 +46,8 @@ Distribuer 15 cartes de couleur pour les fleurs;
 Distribuer 2 cartes de couleur pour la main;
 Distribuer 3 atouts pour la main;
 
-
+Le 2e joueur pioche 1 carte supplémentaire.
+Le 3e joueur pioche 2 cartes supplémentaires.
 
 Zone de jeu typique à deux joueurs:
  ______________________________ ___
