@@ -20,18 +20,29 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 ---------------
 1. Préparation:
 ---------------
-1.1 Nécessite un jeu de 54 cartes (jusqu'à 3 joueurs), ajouter des jeux supplémentaires au besoin.
+1.1 Nécessite un jeu de 54 cartes (partie à 2 ou 3 joueurs), ajouter des paquets supplémentaires au besoin si plus de joueurs / partie plus longue.
 
-1.2 Pour chaque joueur, on prépare:
-	-16 cartes "pétales" qui forment le jardin initial.
+1.2 Cartes:
+	-Cartes pétales (formation du jardin initial):
+		a.Jeu à 2 joueurs: 20 cartes pétales;
+		b.Jeu à 3 joueurs: 15 cartes pétales;
 	-Cartes en main:
-		a.Deux carte pour le premier joueur;
-		b.Trois cartes pour le 2e joueur;
-		c.Et ainsi de suite pour les joueurs suivants.
+		a.Jeu à 2 joueurs:
+			- 3 cartes pour le 1er joueur;
+			- 4 cartes pour le 2e joueur;
+		b.Jeu à 3 joueurs:
+			- 1 carte pour le 1er joueur
+			- 2 cartes pour le 2e joueur;
+			- 3 cartes pour le 3e joueur;
+		c.Et ainsi de suite pour plus de joueurs.
 	
 	-Variations:
-		a.Nombre de cartes pétales
+		a.Nombre de cartes pétales:
+			-Plus de cartes pétales pour une partie plus longue.
+			-Moins de cartes pétales pour une partie plus courte.
 		b.Nombre de cartes en main (respecter +1 pour 2e joueur, etc.)
+			-Plus de cartes en main pour une partie plus courtes.
+			-Moins de cartes en main pour une partie plus longue.
 		c.Handicap:
 			-Joueur débutant:
 				a.Donner plus de cartes en main à un joueur débutant.
@@ -40,7 +51,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 				a.Donner moins de cartes en main à un joueur avancé.
 				b.Donner moins de cartes en main à un joueur avancé.
 
-1.3 Le reste des cartes est placé en une pile face cachée qui forme la pioche. S'assurer qu'il y a au moins 4 cartes dans la pioche en début de partie.1
+1.3 Le reste des cartes est placé en une pile face cachée qui forme la pioche. S'assurer qu'il y a au moins 3 cartes dans la pioche en début de partie.
 
 1.4 Défausse:
 	-Réserver une zone pour une pile de défausse (face visible) nommée: "GraveRyard" (et non graveyard)
