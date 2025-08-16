@@ -60,6 +60,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 	-Le GraveRyard peut être consulté à tout moment.
 	-Si la pioche est vide, on brasse le GraveRyard et on forme une nouvelle pioche.
 
+1.5 Voir section 3.2 pour un exemple de zone de jeu à 2 joueurs.
 
 -----------------
 2. Mise en place:
@@ -81,16 +82,20 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle choisit un paquet de cartes pétales et la main la plus petite.
 	Les deux autres joueurs choisissent leur paquet de cartes pétales dans l'ordre du tour et prennent les mains correspondant à leur position dans l'ordre du tour.
 
-2.2 Chaque joueur prépare ses fleurs de la manière dont il le désire:
+2.3 Prendre connaissance de ses cartes en main avant de passer à 2.4.
+
+2.4 Chaque joueur prépare ses fleurs de la manière dont il le désire:
 	-Nombre de fleurs, Nombre de pétales au choix;
 	-Nombre minimal de pétales par fleur: 2 pétales;
 	
 	Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme radiale.
+	En début de partie, toutes les fleurs crées sont des fleurs régulières.
 	
 	Exemple 1: Avec ses 15 cartes, Émilie décide de créer 5 fleurs de 3 pétales.
 	Exemple 2: Avec ses 15 cartes, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
+	Exemple 3: Avec ses 20 cartes, Vincent décide de créer 3 fleurs de 2 pétales, 3 fleurs de 3 pétales, une fleur de 5 pétales.
 
-2.3 Une fois la mise en place terminée, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".
+2.5 Une fois la mise en place terminée, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".
 
 
 ---------------
@@ -142,8 +147,9 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 		3.2 Résoudre l'attaque. (Voir section 6.4)
 	4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois.
 		-Le joueur dont c'est le tour peut aussi décider de terminer son tour volontairement à cette étape.
-	5.Attaque réussie: Pioche de victoire.
-	6.Dernière volonté (suicide tactique), aucune réplique possible. (Voir section 8.2)
+	5.Attaque réussie: Vol de la fleur adverse.
+	6.Attaque réussie: Pioche de victoire.
+	7.Dernière volonté (suicide tactique), aucune réplique possible. (Voir section 8.2)
 
 
 ---------------------------
@@ -237,7 +243,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 	Attaque réussie:
 		-Une attaque est réussie lorsque l'attaquant a un pétale de valeur plus élevé que le joueur en défense (voir 7.5 pour la valeur des cartes).
 		-Les deux pétales ayant combattu sont retirés de la surface de jeu et mises dans le GraveRyard.
-		-Après une attaque réussie, le joueur vole la fleur de l'adversaire.
+		-Après une attaque réussie, le joueur vole la fleur de l'adversaire et la déplace dans son jardin.
 		-Il pioche ensuite une carte qu'il rajoutera à sa main.
 		-Le tour se termine et on passe au prochain joueur.
 
