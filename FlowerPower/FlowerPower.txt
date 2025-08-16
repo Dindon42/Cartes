@@ -22,7 +22,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 ---------------
 1.1 Nécessite un jeu de 54 cartes (partie à 2 ou 3 joueurs), ajouter des paquets supplémentaires au besoin si plus de joueurs / partie plus longue.
 
-1.2 Cartes:
+1.2 Distribution des cartes:
 	-Cartes pétales (formation du jardin initial):
 		a.Jeu à 2 joueurs: 20 cartes pétales;
 		b.Jeu à 3 joueurs: 15 cartes pétales;
@@ -51,12 +51,13 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 				a.Donner moins de cartes en main à un joueur avancé.
 				b.Donner moins de cartes en main à un joueur avancé.
 
-1.3 Le reste des cartes est placé en une pile face cachée qui forme la pioche. S'assurer qu'il y a au moins 3 cartes dans la pioche en début de partie.
+1.3 Pioche: Le reste des cartes est placé en une pile face cachée qui forme la pioche. S'assurer qu'il y a au moins 3 cartes dans la pioche en début de partie.
 
 1.4 Défausse:
 	-Réserver une zone pour une pile de défausse (face visible) nommée: "GraveRyard" (et non graveyard)
 		a.Cette zone est dédiée aux cartes de la main qui sont utilisées en cours de partie, et
 		b.Les pétales ayant combattu.
+	-Le GraveRyard peut être consulté à tout moment.
 	-Si la pioche est vide, on brasse le GraveRyard et on forme une nouvelle pioche.
 
 
@@ -81,13 +82,13 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 	Les deux autres joueurs choisissent leur paquet de cartes pétales dans l'ordre du tour et prennent les mains correspondant à leur position dans l'ordre du tour.
 
 2.2 Chaque joueur prépare ses fleurs de la manière dont il le désire:
-	-Nombre de pétales, nombre de fleurs au choix;
-	-Grosseur minimale de fleurs: 2 pétales;
+	-Nombre de fleurs, Nombre de pétales au choix;
+	-Nombre minimal de pétales par fleur: 2 pétales;
 	
 	Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme radiale.
 	
-	Exemple 1: Avec ses 16 cartes, Émilie décide de créer 4 fleurs de 4 pétales.
-	Exemple 2: Avec ses 16 cartes, Chloé décide de créer 4 fleurs de 3 pétales et une de 4.
+	Exemple 1: Avec ses 15 cartes, Émilie décide de créer 5 fleurs de 3 pétales.
+	Exemple 2: Avec ses 15 cartes, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
 
 2.3 Une fois la mise en place terminée, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".
 
