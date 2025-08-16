@@ -98,6 +98,8 @@ Rôle des 3 bouts:
 Excuse - 2 options:
 	->Faire échouer une attaque directement, aucune parade possible.
 	->Piocher 2 cartes
+
+Dans une partie à 2 joueurs, si à n'importe quel moment le 1 et le 21 se trouvent séparés dans les potagers des 2 joueurs, leurs effets s'annulent.  On les defausse immédiatement. 
 	
 Rôles des autres atouts (2 -> 20):
 Équipement: L'atout peut être équipé à un pétale, lui conférant en bonus la valeur de l'atout.
