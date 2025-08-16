@@ -86,7 +86,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 ---------------
 3.1 Le jardin de chaque joueur est divisé en deux zones distinctes:
 	-Les fleurs régulières à l'avant; et
-	-Les POWER FLOWER à l'arrière (expliqué plus loin XYZ SECTION).
+	-Les POWER FLOWER à l'arrière (voir section 5.3).
 	
 3.2 Zone de jeu typique à deux joueurs:
      ___________________
@@ -127,11 +127,11 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 			-Attaquant: Jouer des cartes de sa main (optionnel);
 			-Défenseur: Réplique possible du défenseur (optionnel);
 			-Répéter 3.2 jusqu'à ce que les 2 joueurs décident de passer.
-		3.2 Résoudre l'attaque. (Voir section XYZ)
+		3.2 Résoudre l'attaque. (Voir section 6.4)
 	4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois.
 		-Le joueur dont c'est le tour peut aussi décider de terminer son tour volontairement à cette étape.
 	5.Attaque réussie: Pioche de victoire.
-	6.Dernière volonté (suicide tactique), aucune réplique possible. (Voir section XYZ)
+	6.Dernière volonté (suicide tactique), aucune réplique possible. (Voir section 8.2)
 
 
 ---------------------------
@@ -223,14 +223,14 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 
 6.4 Résolution de l'attaque:
 	Attaque réussie:
-		-Une attaque est réussie lorsque l'attaquant a un pétale de valeur plus élevé que le joueur en défense (voir XYZ pour la valeur des cartes).
+		-Une attaque est réussie lorsque l'attaquant a un pétale de valeur plus élevé que le joueur en défense (voir 7.5 pour la valeur des cartes).
 		-Les deux pétales ayant combattu sont retirés de la surface de jeu et mises dans le GraveRyard.
 		-Après une attaque réussie, le joueur vole la fleur de l'adversaire.
 		-Il pioche ensuite une carte qu'il rajoutera à sa main.
 		-Le tour se termine et on passe au prochain joueur.
 
 	Attaque échouée:
-		-Les fleurs restent indemnes, mais la fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir XYZ pour plus de de détails).
+		-Les fleurs restent indemnes, mais la fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir 7.1 pour cas spécial).
 		-Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.
 		-Dans le cas où un joueur a échoué avec toutes ses fleurs, il doit terminer son tour et il ne pioche aucune carte.
 
@@ -238,7 +238,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 7. Attaques - spécificités:
 ---------------------------
 7.1 Nombre d'attaques:
-	-En cas normal, chaque fleur ne peut attaquer qu'une seule fois par tour;
+	-En cas normal, chaque fleur ne peut attaquer qu'une seule fois par tour.
 	-Exception: Lorsqu'un joueur ne possède qu'une seule fleur, ce dernier, dans l'ultime espoir de survie, peut attaquer autant de fois qu'il le désire (max 1 attaque par fleur adverse), jusqu'à ce qu'il triomphe ou que toutes ses attaques échouent.
 
 7.2 Influence de bataille:
