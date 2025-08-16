@@ -290,5 +290,4 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 Fin du jeu:
 -----------
 Le vainqueur est le dernier joueur vivant!
-En cas de mort simultanée des deux joueurs, celui avec le plus grand nombre de cartes en main gagne la partie.
-En cas d'égalité, on procède à un "pareil, pas-pareil" comme pour décider du premier joueur.
+En cas de mort simultanée des deux joueurs (lors d'une attaque), l'attaquant gagne.
