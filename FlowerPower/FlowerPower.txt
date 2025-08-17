@@ -113,7 +113,16 @@ Relecture et commentaires: P. Labrèche.
 	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle prend un paquet de cartes pétales et la main correspondant à la première position.
 	En séquence, les deux autres joueurs prennent un paquet de cartes pétales et la main correspondant à leur position respective.
 	
-	Exemple 3: Pour une partie à 4 joueurs, ...
+	Exemple 3: Pour une partie à 4 joueurs, Johanne gagne la joute de Pareil/Pas Pareil. Elle décide de jouer en 3e.  Elle prend un paquet de cartes pétales et la main correspondant à la 3e position.  Pierre, à sa gauche, sera le 4e joueur, puis Évelyne joueura en premier et Arnaud en deuxième.
+
+
+        Pierre (J4)
+      /             \
+Johanne (J3)    Évelyne (J1)
+      \             /
+        Arnaud (J2)
+
+
 
 3.2 Chaque joueur prend connaissance de sa main.
 
@@ -361,3 +370,6 @@ Parking:
 4.5
 -C'est ici que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'adversaire et prouver leur domination.
 -Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.
+
+
+Attaque vs fleur à 1 pétale + poison sur défense = attaque échouée.
