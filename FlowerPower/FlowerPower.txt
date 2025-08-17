@@ -68,7 +68,7 @@ Relecture et commentaires: P. Labrèche.
 2.2 Illustration du plateau de jeu à deux joueurs:
      
 	    Jardin Joueur1
-	 ___________________
+     ___________________
     |                   |
     |   POWER FLOWERs   |
     |___________________|
