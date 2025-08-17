@@ -1,4 +1,4 @@
-FLOWER POWER! - Les règles officielles (jeu de cartes)
+FLOWER POWER! - Les règles officielles du jeu de cartes.
  _____ _     _____        _______ ____    ____   _____        _______ ____  
 |  ___| |   / _ \ \      / / ____|  _ \  |  _ \ / _ \ \      / / ____|  _ \ 
 | |_  | |  | | | \ \ /\ / /|  _| | |_) | | |_) | | | \ \ /\ / /|  _| | |_) |
@@ -8,105 +8,67 @@ FLOWER POWER! - Les règles officielles (jeu de cartes)
 Par Vincent Labrèche
 v.labreche@gmail.com
 
+Crédits:
 Inspiration originale: S. Kruschitz
 Merci aux testeurs: L.P. Moreau, J. Marchand, Y. Bois, J.Lafontaine, A.Lafontaine
 Merci à la 2e génération: Ém. Labrèche, Él. Labrèche et A. Labrèche.
 Relecture et commentaires: P. Labrèche.
 
-Nombre de joueurs:
-Minimum 2, 3 joueurs (recommandé) ou plus
-
-
 ---------------
 1. Préparation:
 ---------------
-1.1 Nécessite un jeu de 54 cartes (partie à 2 ou 3 joueurs), ajouter des paquets supplémentaires au besoin si plus de joueurs / partie plus longue.
+1.1 Nombre de joueurs: 2 ou +
+	-Recommendation: 3 joueurs
 
-1.2 Distribution des cartes:
-	-Cartes pétales (formation du jardin initial):
-		a.Jeu à 2 joueurs: 20 cartes pétales;
-		b.Jeu à 3 joueurs: 15 cartes pétales;
-	-Cartes en main:
+1.2 Nécessite un jeu de 54 cartes pour une partie à 2 ou 3 joueurs.
+	-À partir de 4 joueurs, utiliser plusieurs paquets.
+
+1.3 Distribution des cartes:
+	Lors de la distribution, on forme les paquets de départ qui seront assignés aux joueurs ultérieurement.
+	-Cartes pétales (servent à former le jardin initial d'un joueur):
+		a.Jeu à 2 joueurs: 20 cartes par joueur;
+		b.Jeu à 3 joueurs: 15 cartes par joueur;
+	-Cartes de la main:
 		a.Jeu à 2 joueurs:
 			- 3 cartes pour le 1er joueur;
 			- 4 cartes pour le 2e joueur;
 		b.Jeu à 3 joueurs:
-			- 1 carte pour le 1er joueur
+			- 1 carte pour le 1er joueur;
 			- 2 cartes pour le 2e joueur;
 			- 3 cartes pour le 3e joueur;
-		c.Et ainsi de suite pour plus de joueurs.
-	
-	-Variations:
-		a.Nombre de cartes pétales:
-			-Plus de cartes pétales pour une partie plus longue.
-			-Moins de cartes pétales pour une partie plus courte.
-		b.Nombre de cartes en main (respecter +1 pour 2e joueur, etc.)
-			-Plus de cartes en main pour une partie plus courtes.
-			-Moins de cartes en main pour une partie plus longue.
-		c.Handicap:
-			-Joueur débutant:
-				a.Donner plus de cartes en main à un joueur débutant.
-				b.Donner plus de cartes pétales à un joueur débutant
-			-Joueur avancé:
-				a.Donner moins de cartes en main à un joueur avancé.
-				b.Donner moins de cartes en main à un joueur avancé.
+		c.Jeu à plus de 3 joueurs:
+			-Choisir un nombre de cartes de base pour le 1er joueur.
+			-Donner les cartes de base +1 carte au 2e joueur.
+			-Donner les cartes de base +2 cartes au 3e joueur.
+			-Et ainsi de suite pour les joueurs suivants (augmenter +1 pour chaque joueur suivant).
+			-Concernant le nombre de cartes de base, s'assurer qu'il restera au moins 3 cartes après la distribution.
 
-1.3 Pioche: Le reste des cartes est placé en une pile face cachée qui forme la pioche. S'assurer qu'il y a au moins 3 cartes dans la pioche en début de partie.
+1.4 Pioche: Les cartes non-distribuées sont placées en une pile face cachée qui forme la pioche initiale.
 
-1.4 Défausse:
-	-Réserver une zone pour une pile de défausse (face visible) nommée: "GraveRyard" (et non graveyard)
+1.5 Défausse "GraveRyard":
+	-Réserver une zone pour une pile de défausse:
 		a.Cette zone est dédiée aux cartes de la main qui sont utilisées en cours de partie, et
 		b.Les pétales ayant combattu.
-	-Le GraveRyard peut être consulté à tout moment.
-	-Si la pioche est vide, on brasse le GraveRyard et on forme une nouvelle pioche.
+	-Défausser les cartes face visible.
+	-Le GraveRyard peut être consulté par tous à tout moment, pas uniquement la carte du dessus.
 
-1.5 Voir section 3.2 pour un exemple de zone de jeu à 2 joueurs.
-
------------------
-2. Mise en place:
------------------
-2.1 Détermination de l'ordre du tour et sélection des cartes de départ:
-
-	Procéder à identifier le joueur qui choisira l'ordre de jeu en faisant des joutes de:
-	-Pour une partie à 2 joueurs: Roche, Papier, Ciseau
-	-Pour une partie à 3+ joueurs: Pareil / Pas Pareil
-	
-	Au terme de cette étape, le joueur qui gagne la joute choisit sa place dans l'ordre du tour.
-	Le jeu se joue ensuite dans le sens horaire.
-	
-	Exemple 1: Pour une partie à 2 joueurs, Ariane gagne la joute de roche, papier, ciseau.
-	Elle décide de jouer en 2e.  Elle prend le paquet de cartes pétales de son choix et la main la plus grosse.
-	Elle laisse donc Adrien être premier joueur et avoir l'initiative d'attaque, mais elle a une carte de plus en main.
-	
-	Exemple 2: Pour une partie à 3 joueurs, Éléonore gagne la joute de Pareil/Pas Pareil.
-	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle choisit un paquet de cartes pétales et la main la plus petite.
-	Les deux autres joueurs choisissent leur paquet de cartes pétales dans l'ordre du tour et prennent les mains correspondant à leur position dans l'ordre du tour.
-
-2.3 Prendre connaissance de ses cartes en main avant de passer à 2.4.
-
-2.4 Chaque joueur prépare ses fleurs de la manière dont il le désire:
-	-Nombre de fleurs, Nombre de pétales au choix;
-	-Nombre minimal de pétales par fleur: 2 pétales;
-	
-	Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme radiale.
-	En début de partie, toutes les fleurs crées sont des fleurs régulières.
-	
-	Exemple 1: Avec ses 15 cartes, Émilie décide de créer 5 fleurs de 3 pétales.
-	Exemple 2: Avec ses 15 cartes, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
-	Exemple 3: Avec ses 20 cartes, Vincent décide de créer 3 fleurs de 2 pétales, 3 fleurs de 3 pétales, une fleur de 5 pétales.
-
-2.5 Une fois la mise en place terminée, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".
+1.6 Remplissage de la pioche:
+	-Si la pioche est vide, on prend toutes les cartes du GraveRyard, on les brasse et on forme une nouvelle pioche (face cachée).
 
 
----------------
-3. Zone de jeu:
----------------
-3.1 Le jardin de chaque joueur est divisé en deux zones distinctes:
+------------------
+2. Plateau de jeu:
+------------------
+2.1 Le jardin de chaque joueur est divisé en deux zones distinctes:
 	-Les fleurs régulières à l'avant; et
 	-Les POWER FLOWER à l'arrière (voir section 5.3).
 	
-3.2 Zone de jeu typique à deux joueurs:
-     ___________________
+2.2 Réserver une zone centrale pour la pioche et le GraveRyard
+	
+2.2 Illustration du plateau de jeu à deux joueurs:
+     
+	    Jardin Joueur1
+	 ___________________
     |                   |
     |   POWER FLOWERs   |
     |___________________|
@@ -125,11 +87,90 @@ Minimum 2, 3 joueurs (recommandé) ou plus
     |                   |
     |   POWER FLOWERs   |
     |___________________|
+	
+       Jardin Joueur 2
+
+
+------------------------------------------------------
+3. Assignation des positions et préparation du jardin:
+------------------------------------------------------
+3.1 Assignation des positions des joueurs.
+	
+	Les joueurs se placent en cercle.
+	
+	Procéder à identifier le joueur qui choisira l'ordre de jeu en faisant des joutes de:
+	-Pour une partie à 2 joueurs: Roche, Papier, Ciseau
+	-Pour une partie à 3+ joueurs: Pareil / Pas Pareil
+	
+	Au terme de cette étape, le joueur qui gagne la joute choisit sa place dans l'ordre du tour.
+	Les autres positions sont allouées dans le sens horaire.
+	
+	Exemple 1: Pour une partie à 2 joueurs, Ariane gagne la joute de roche, papier, ciseau.
+	Elle décide de jouer en 2e.  Elle prend un paquet de cartes pétales (au choix) et la main correspondant à la 2e position.
+	Elle laisse donc Adrien être premier joueur, il aura donc l'initiative d'attaque, mais avec une carte en moins qu'Ariane.
+	
+	Exemple 2: Pour une partie à 3 joueurs, Éléonore gagne la joute de Pareil/Pas Pareil.
+	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle prend un paquet de cartes pétales et la main correspondant à la première position.
+	En séquence, les deux autres joueurs prennent un paquet de cartes pétales et la main correspondant à leur position respective.
+	
+	Exemple 3: Pour une partie à 4 joueurs, ...
+
+3.2 Chaque joueur prend connaissance de sa main.
+
+3.3 Chaque joueur construit des fleurs régulières, à sa guise:
+	-Nombre de fleurs au choix;
+	-Nombre de pétales par fleur: minimum 2;
+	
+	Pour créer une fleur, chaque joueur empile des pétales, face cachée, en une forme radiale.
+	
+	Exemple 1: Avec ses 15 cartes, Émilie décide de créer 5 fleurs de 3 pétales.
+	Exemple 2: Avec ses 15 cartes, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
+	Exemple 3: Avec ses 20 cartes, Vincent décide de créer 3 fleurs de 2 pétales, 3 fleurs de 3 pétales, une fleur de 5 pétales.
+
+3.4 Quand toutes les fleurs sont crées, les joueurs doivent répéter en choeur: "C'est la bataille des fleurs".
+
+
+----------------------
+4. Déroulement du jeu:
+----------------------
+4.1 Le premier joueur entame le jeu, le tour passera d'un joueur à l'autre selon leur position respective.
+
+4.2 À son tour, un joueur attaque ou modifie son jardin ou celui des adversaires.  Il peut: 
+	-À l'aide de ses fleurs, attaquer les fleurs adverses dans le but de les capturer ou de les détruire;
+	-À l'aide de ses cartes en main, améliorer son jardin;
+	-À l'aide de ses cartes en main, saboter le jardin des adversaires.
+
+4.3 Un joueur qui n'a plus de fleurs est éliminé.
+
+4.4 Déclaration d'une attaque de fleur:
+	Lors d'une attaque, le joueur choisit une de ses fleurs pour attaquer une fleur cible adverse.
+	On dévoile le pétale du dessus des chacune des fleurs engagées dans la bataille.
+	Un pétale dévoilé reste ainsi tant qu'il est attaché à sa fleur.
+	
+4.5 Une fois l'attaque déclarée, les deux joueurs engagés peuvent utiliser les pouvoirs de leurs cartes en main en répliquant à tour de rôle, ou en passant leur droit de réplique.
+	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer la bataille en cours, ces cartes peuvent bousiller ou améliorer les autres fleurs des jardins.
+	-Lorsque les deux belligérants passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on résout l'attaque.
+
+4.6 Résolution de l'attaque:
+	Attaque réussie:
+		Condition d'une attaque réussie: La fleur attaquante a son pétale du dessus de valeur plus élevé que le pétale du dessus de la fleur adverse.
+		-Les deux pétales ayant combattu sont retirés du jeu et défaussés dans le GraveRyard.
+		-Après une attaque réussie, l'attaquant gagne la fleur de l'adversaire et la plante dans son jardin.
+		-Il pioche ensuite une carte qu'il ajoute à sa main.
+		-Le tour se termine et le tour passe au prochain joueur.
+
+	Attaque échouée:
+		Condition d'une attaque échouée: La fleur défendante a son pétale du dessus de valeur plus élevé ou égale au pétale du dessus de la fleur attaquante.
+		-Les fleurs restent indemnes, mais la fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir 7.1 pour cas spécial).
+		-Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.
+		-Si toutes ses fleurs sont épuisées, le joueur doit terminer son tour et il ne pioche aucune carte.
 
 
 -----------------
-4. Ordre du tour:
+5. Ordre du tour:
 -----------------
+
+4.4 En dehors des attaques, le joueur actif peut utiliser les cartes de sa main.  Les autres joueurs n'ont aucune réplique possible à ce moment.
 
 	1.(Optionnel)Pioche: Décider si on pioche ou non.
 		-Si le joueur pioche, son tour se termine immédiatement.
@@ -222,35 +263,7 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 	-Joker Rouge: Cœur ou Carreau.
 
 
-----------------------
-6. Déroulement du jeu:
-----------------------
-6.1 À tour de rôle, les joueurs s'attaquent dans le but de voler les fleurs de l'adversaire et ainsi, de les éliminer lorsque ceux-ci n'ont plus de fleur.
 
-6.2 À tout moment (même en-dehors des attaques), le joueur dont c'est le tour peut utiliser les cartes de sa main.  Les autres joueurs n'ont aucune réplique possible à ce moment.
-
-6.3 Déclaration d'une attaque:
-	Lors d'une attaque, le joueur choisit quelle fleur attaque et quelle fleur adverse défend.  Dans le cas de fleurs régulières, les pétales du dessus sont alors tournés face visible (si ils sont cachés).
-	
-6.4 Une fois l'attaque déclarée, on passe en pré-résolution.
-	-C'est ici que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'adversaire et prouver leur domination.
-	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer la bataille en cours, ils peuvent bousiller ou améliorer les autres fleurs du jardin.
-	-Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.
-	-Lorsque les joueurs passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on passe à la résolution de l'attaque.
-
-
-6.4 Résolution de l'attaque:
-	Attaque réussie:
-		-Une attaque est réussie lorsque l'attaquant a un pétale de valeur plus élevé que le joueur en défense (voir 7.5 pour la valeur des cartes).
-		-Les deux pétales ayant combattu sont retirés de la surface de jeu et mises dans le GraveRyard.
-		-Après une attaque réussie, le joueur vole la fleur de l'adversaire et la déplace dans son jardin.
-		-Il pioche ensuite une carte qu'il rajoutera à sa main.
-		-Le tour se termine et on passe au prochain joueur.
-
-	Attaque échouée:
-		-Les fleurs restent indemnes, mais la fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir 7.1 pour cas spécial).
-		-Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.
-		-Dans le cas où un joueur a échoué avec toutes ses fleurs, il doit terminer son tour et il ne pioche aucune carte.
 
 ---------------------------
 7. Attaques - spécificités:
@@ -293,8 +306,58 @@ Minimum 2, 3 joueurs (recommandé) ou plus
 8.2 Suicide tactique:
 	Un joueur peut décider de faire un suicide tactique en utilisant sa dernière fleur à un pétale pour attaquer une fleur à un pétale adverse.  Advenant d'une attaque réussie, le joueur se retrouve avec 0 cartes dans son jardin, mais peut piocher une carte pour jouer sa dernière volonté (aucune réplique possible sur la dernière volonté).  S'il réussit à anéantir son dernier adversaire sur la dernière volonté le joueur gagne la partie.
 
------------
-Fin du jeu:
------------
+--------------
+9. Fin du jeu:
+--------------
 Le vainqueur est le dernier joueur vivant!
 En cas de mort simultanée des deux joueurs (lors d'une attaque), l'attaquant gagne.
+
+---------------
+10. Variations:
+---------------
+a. Varier la distribution initiale au goût:
+	1.Nombre de cartes pétales:
+		-Plus de cartes pétales pour une partie plus longue.
+		-Moins de cartes pétales pour une partie plus courte.
+	2.Nombre de cartes en main (respecter +1 pour 2e joueur, etc.)
+		-Plus de cartes en main pour une partie plus courtes.
+		-Moins de cartes en main pour une partie plus longue.
+	3.Handicap:
+		-Joueur débutant:
+			a.Donner plus de cartes en main à un joueur débutant.
+			b.Donner plus de cartes pétales à un joueur débutant
+		-Joueur avancé:
+			a.Donner moins de cartes en main à un joueur avancé.
+			b.Donner moins de cartes en main à un joueur avancé.
+	4.Partie longue "marathon":
+		-Si vous désirez jouer de plus longues parties, ajouter des paquets supplémentaires et augmentez les distributions de départ à volonté.
+			
+b. Jeu sans Joker:
+	-Le jeu peut aussi se jouer avec un paquet de 52 cartes, ignorer les règes des jokers.
+	
+
+
+
+
+
+--------------
+11. Glossaire:
+--------------
+-Fleur: Pile de pétales organisés en forme radiale. Aucune limite de quantité de pétale.
+-Pétale: Carte qui fait partie d'une fleur.
+	-Toute carte peut être un pétale.
+	-Un pétale peut être visible ou caché.
+-Fleur Régulière: Toute fleur qui n'est pas un POWER FLOWER.
+-POWER FLOWER: Fleur qui:
+	-Fleur régulière qui a été promue suite à l'usage d'un carreau (voir section 5.3);
+	-Créée en tant que POWER FLOWER (voir section 5.6)
+
+
+
+
+
+Parking:
+
+4.5
+-C'est ici que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'adversaire et prouver leur domination.
+-Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.
