@@ -113,7 +113,9 @@ Relecture et commentaires: P. Labrèche.
 	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle prend un paquet de cartes pétales et la main correspondant à la première position.
 	En séquence, les deux autres joueurs prennent un paquet de cartes pétales et la main correspondant à leur position respective.
 	
-	Exemple 3: Pour une partie à 4 joueurs, Johanne gagne la joute de Pareil/Pas Pareil. Elle décide de jouer en 3e.  Elle prend un paquet de cartes pétales et la main correspondant à la 3e position.  Pierre, à sa gauche, sera le 4e joueur, puis Évelyne joueura en premier et Arnaud en deuxième.
+	Exemple 3: Pour une partie à 4 joueurs, Johanne gagne la joute de Pareil/Pas Pareil. Elle décide de jouer en 3e.
+	Elle prend un paquet de cartes pétales et la main correspondant à la 3e position.
+	Pierre, à sa gauche, sera le 4e joueur, puis Évelyne jouera en premier et Arnaud en deuxième.
 
 
         Pierre (J4)
@@ -153,12 +155,12 @@ Johanne (J3)    Évelyne (J1)
 
 4.4 Déclaration d'une attaque de fleur:
 	Lors d'une attaque, le joueur choisit une de ses fleurs pour attaquer une fleur cible adverse.
-	On dévoile le pétale du dessus des chacune des fleurs engagées dans la bataille.
+	On dévoile le pétale du dessus des chacune des fleurs engagées dans l'attaque.
 	Un pétale dévoilé reste ainsi tant qu'il est attaché à sa fleur.
 	
 4.5 Une fois l'attaque déclarée, les deux joueurs engagés peuvent utiliser les pouvoirs de leurs cartes en main en répliquant à tour de rôle, ou en passant leur droit de réplique.
-	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer la bataille en cours, ces cartes peuvent bousiller ou améliorer les autres fleurs des jardins.
-	-Lorsque les deux belligérants passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on résout l'attaque.
+	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer l'attaque en cours (les deux fleurs belligérantes), ces cartes peuvent affaiblir ou renforcer les autres fleurs des jardins.
+	-Lorsque les deux joueurs passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on résout l'attaque.
 
 4.6 Résolution de l'attaque:
 	Attaque réussie:
@@ -175,62 +177,74 @@ Johanne (J3)    Évelyne (J1)
 		-Si toutes ses fleurs sont épuisées, le joueur doit terminer son tour et il ne pioche aucune carte.
 
 
------------------
-5. Ordre du tour:
------------------
+-----------------------
+5. Exécution d'un tour:
+-----------------------
+À son tour, un joueur peut exécuter les actions suivantes, dans l'ordre qui suit:
+Le joueur actif peut décider de terminer son tour volontairement à tout moment.
 
-4.4 En dehors des attaques, le joueur actif peut utiliser les cartes de sa main.  Les autres joueurs n'ont aucune réplique possible à ce moment.
 
-	1.(Optionnel)Pioche: Décider si on pioche ou non.
-		-Si le joueur pioche, son tour se termine immédiatement.
-		-Cette action n'est pas disponible au premier tour.
-		-Si le joueur a pioché au dernier tour, l'action pioche n'est pas disponible. Il doit nécessairement attaquer ce tour-ci.
-	2.(Optionnel) Jouer des cartes de sa main (voir section 5):
+	1.Pioche:
+		-Cette action n'est pas disponible au premier tour, ni si le tour précédent était l'action pioche.
+		-Si le joueur pioche, son tour se termine immédiatement et l'action pioche ne sera pas disponible au tour suivant.
+	2.Jouer des cartes de sa main (voir section 6):
 		-Peut cibler soi-même ou un adversaire.
 		-Aucune réplique de l'adversaire possible à ce stade.
-	3.Déclarer des attaques (voir section 6)
-		3.1 Révélation (Fleurs Régulières) ou Sélection (POWER FLOWERs) des pétales combattants;
-		3.2 Pré-Résolution:
-			-Attaquant: Jouer des cartes de sa main (optionnel);
-			-Défenseur: Réplique possible du défenseur (optionnel);
-			-Répéter 3.2 jusqu'à ce que les 2 joueurs décident de passer.
-		3.2 Résoudre l'attaque. (Voir section 6.4)
-	4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois.
-		-Le joueur dont c'est le tour peut aussi décider de terminer son tour volontairement à cette étape.
-	5.Attaque réussie: Vol de la fleur adverse.
-	6.Attaque réussie: Pioche de victoire.
-	7.Dernière volonté (suicide tactique), aucune réplique possible. (Voir section 8.2)
+	3.Attaque des fleurs (description détaillée en section 7)
+		3.1 Pétales combattants
+			a. Pétale attaquant: Révélation (Fleurs Régulières) ou sélection par le joueur attaquant (POWER FLOWERs);
+			b. Pétale défendant: Révélation (Fleurs Régulières) ou sélection par le joueur défendant (POWER FLOWERs);
+		3.2 Déroulement de la bataille des fleurs: en alternance, en commençant par l'attaquant:
+			-L'attaquant peut jouer une carte de sa main;
+			-Le défendant peut jouer une carte de sa main en réplique;
+			-Répéter jusqu'à ce que les 2 joueurs passent de manière consécutive.
+		3.3 Résolution de l'attaque. (Voir section 7.4):
+			Attaque réussie:
+				-Vol de la fleur adverse;
+				-Pioche de victoire:					
+					-Cette pioche est disponible à tout tour (même au premier tour ou si le joueur a exécuté l'action pioche au dernier tour).
+			Attaque échouée:
+				-Fleur attaquante non-unique: La fleur attaquante est épuisée;
+				ou
+				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
+	4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou jusqu'à ce que:
+		-Fleurs multiples: Toutes les fleurs du joueur actif sont épuisées.
+		-Fleur unique (attaquant): Toutes les fleurs adverses sont épuisées. 
 
 
----------------------------
-5. Rôle des cartes en main:
----------------------------
-5.1 Pique - Poison:
-	Détruit instantanément un pétale visible de force inférieure ou égale à la valeur du poison, aucune parade possible.
+-------------------------------
+6. Jouer des cartes de sa main:
+-------------------------------
+6.1 Pique - Poison:
+	Détruit instantanément un pétale, aucune parade possible.
 	
-	Cibles: Pétales (siens ou adverses)
-		-Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix.
-		-Peut cibler son propre pétale.
+	Cible:
+		-Un pétales visible de force inférieure ou égale à la valeur du poison.
+		-Tout pétale (dans son jardin ou celui d'un adversaire), indépendamment de la sorte de la cible.
+		-Pétale appartenant à une fleur régulière ou à une POWER FLOWER celui qui utilise le poison détruit le pétale de son choix, pas nécessairement celui du dessus.
 
-	On met la carte poison et le pétale cible au GraveRyard après utilisation.
+	On défausse la carte poison et le pétale cible après utilisation.
 	
-	Exemple: Johanne utilise le roi de pique qu'elle a dans sa main pour détruire le roi de coeur visible sur la fleur de Pierre.
+	Exemple 1: Johanne utilise le roi de pique qu'elle a dans sa main pour détruire le roi de coeur visible sur la fleur de Pierre.
+	Exemple 2: Thérèse utilise le sept de pique qu'elle a dans sa main pour détruire le trois de carreau visible sur la fleur de Robert.
 
-5.2 Coeur - Engrais:
-	+1 petale sur une fleur.
+6.2 Coeur - Engrais:
+	Ajout d'un pétale sur une fleur.
 	
-	Cibles: Fleurs (siennes, adverses)
-	Position: Au choix
+	Cibles: 
+		-Fleurs (siennes, adverses)
+	Position dans la pile de la fleur:
+		-Au choix
 	
 	Le joueur qui joue le coeur ajoute un pétale à une fleur de son choix.
 		-N'importe où sur la fleur, pas nécessairement sur le dessus;
 		-Sa propre fleur ou celle d'un adversaire;
-		-Peut être ajouté à une POWER FLOWER;
+		-Peut être ajouté à une POWER FLOWER ou à une fleur régulière;
 		-La valeur du coeur définit la puissance du pétale.
 		
-	Exemple: Évelyne joue un 2 de coeur sur le dessus d'une fleur forte de Arnaud.  Elle espère pouvoir remporter facilement cette victoire en mettant un petit coeur sur une fleur adverse.
+	Exemple: Évelyne joue un 2 de coeur sur le dessus d'une fleur forte d'Arnaud.  Elle espère pouvoir remporter facilement cette victoire en mettant un petit coeur sur une fleur adverse.
 		
-5.3 Carreau - POWER FLOWER:
+6.3 Carreau - POWER FLOWER:
 	Transforme une fleur en super-fleur:
 		-On déplace la fleur dans la zone POWER FLOWER;
 		-Tous les pétales sont révélés;
@@ -243,7 +257,7 @@ Johanne (J3)    Évelyne (J1)
 	
 	Exemple: Yan utilise un 3 de carreau pour transformer une de ses fleurs en POWER FLOWER.  Il révèle tous les pétales de sa fleur.  Il pourra à l'avenir choisir quel pétale combat soit à l'attaque ou à la défense.
 
-5.4 Trèfle - Espion:
+6.4 Trèfle - Espion:
 	Droit d'espionner une fleur ou la main de l'adversaire.
 	
 	Cibles: Fleur (sienne, adverse), Main (adverse)
@@ -255,18 +269,18 @@ Johanne (J3)    Évelyne (J1)
 	Exemple1: Julien utilise son 3 de trèfle pour espionner la main de Louis-Philippe (3 cartes).  Il trouve [R_Pique, 5_Coeur, 7_Carreau]
 	Exemple2: Stéphane utilise son 5 de trèfle pour espionner sa propre fleur de 4 pétales (tous cachés).  Il observe [A_Coeur, 3_Pique, 8_Pique, Joker_Noir].  Cette fleur est très forte, il pourra donc tenter de protéger cette fleur au meilleur de ses capacités.
 
-5.5 Création d'une fleur régulière:
+6.5 Création d'une fleur régulière:
 	Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.
 		-Cette fleur est régulière.
 		-L'ordre des pétales est choisi par le joueur qui crée la fleur.
 		-Les pétales sont tous cachés.
 
-5.6 Création d'une POWER FLOWER:
+6.6 Création d'une POWER FLOWER:
 	Un joueur peut créer une super-fleur avec au minimum 4 cartes (dont 1 de chaque sorte).
 		-Cette fleur est une PF.
 		-Tous les pétales sont révélés.
 
-5.5 Jokers:
+6.5 Jokers:
 	Les jokers peuvent être utilisés comme une des deux sortes de leur couleur:
 	-Joker Noir: Pique ou Trèfle.
 	-Joker Rouge: Cœur ou Carreau.
@@ -274,9 +288,9 @@ Johanne (J3)    Évelyne (J1)
 
 
 
----------------------------
-7. Attaques - spécificités:
----------------------------
+-----------------------
+7. Attaques des fleurs:
+-----------------------
 7.1 Nombre d'attaques:
 	-En cas normal, chaque fleur ne peut attaquer qu'une seule fois par tour.
 	-Exception: Lorsqu'un joueur ne possède qu'une seule fleur, ce dernier, dans l'ultime espoir de survie, peut attaquer autant de fois qu'il le désire (max 1 attaque par fleur adverse), jusqu'à ce qu'il triomphe ou que toutes ses attaques échouent.
@@ -298,9 +312,6 @@ Johanne (J3)    Évelyne (J1)
 
 7.4 Dans le cas d'une POWER FLOWER, c'est toujours au moment de la résolution que le joueur choisit quel pétale attaque ou défend.  (ex.: après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4 et briser l'égalité.  Dans ce cas, il aurait le droit d'avoir un 4 à l'As.
 
-7.5 Puissance des cartes:
-	-La puissance des cartes est la suivante, dans l'ordre décroissant: Joker,A,K,Q,J,10,9,8,7,6,5,4,3,2
-
 
 ---------------------
 8. Actions spéciales:
@@ -314,6 +325,10 @@ Johanne (J3)    Évelyne (J1)
 
 8.2 Suicide tactique:
 	Un joueur peut décider de faire un suicide tactique en utilisant sa dernière fleur à un pétale pour attaquer une fleur à un pétale adverse.  Advenant d'une attaque réussie, le joueur se retrouve avec 0 cartes dans son jardin, mais peut piocher une carte pour jouer sa dernière volonté (aucune réplique possible sur la dernière volonté).  S'il réussit à anéantir son dernier adversaire sur la dernière volonté le joueur gagne la partie.
+
+Modification ordre du tour:
+5.Dernière volonté "suicide tactique", aucune réplique possible. (Voir section 9.2)
+
 
 --------------
 9. Fin du jeu:
@@ -360,8 +375,18 @@ b. Jeu sans Joker:
 -POWER FLOWER: Fleur qui:
 	-Fleur régulière qui a été promue suite à l'usage d'un carreau (voir section 5.3);
 	-Créée en tant que POWER FLOWER (voir section 5.6)
-
-
+-Attaque: Une attaque est déclarée entre deux fleurs au choix du joueur attaquant.
+-Bataille: Jeu des cartes en main suivant la déclaration d'une attaque.
+-Fleurs belligérantes: Lors d'une attaque, la fleur attaquante et la fleur défendante.
+-Fleur épuisée: Une fleur épuisée ne peut plus attaquer, ou être attaquée.
+	-Une fleur qui a échoué une attaque est épuisée jusqu'à la fin du tour du joueur actif.
+	-Une fleur adverse épuisée le reste jusqu'à la fin du tour du joueur actif.
+-Fleur unique:
+	-Une fleur unique ne s'épuise pas, même en cas d'échec lorsqu'elle attaque.
+	-Une fleur unique peut attaquer chaque fleur adverse une seule fois.
+	-Une fleur adverse est épuisée en cas d'attaque échouée par une fleur unique.
+-Puissance des cartes:
+	-La puissance des cartes est la suivante, en ordre décroissant: Joker,A,K,Q,J,10,9,8,7,6,5,4,3,2
 
 
 
