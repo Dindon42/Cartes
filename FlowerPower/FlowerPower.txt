@@ -1,4 +1,4 @@
-FLOWER POWER! - Les règles officielles du jeu de cartes.
+FLOWER POWER! - Les règles officielles (jeu de cartes)
  _____ _     _____        _______ ____    ____   _____        _______ ____  
 |  ___| |   / _ \ \      / / ____|  _ \  |  _ \ / _ \ \      / / ____|  _ \ 
 | |_  | |  | | | \ \ /\ / /|  _| | |_) | | |_) | | | \ \ /\ / /|  _| | |_) |
@@ -26,8 +26,10 @@ Relecture et commentaires: P. Labrèche.
 1.3 Distribution des cartes:
 	Lors de la distribution, on forme les paquets de départ qui seront assignés aux joueurs ultérieurement.
 	-Cartes pétales (servent à former le jardin initial d'un joueur):
-		a.Jeu à 2 joueurs: 20 cartes par joueur;
-		b.Jeu à 3 joueurs: 15 cartes par joueur;
+		a.Jeu à 2 joueurs: 20 cartes par joueur (40 total);
+		b.Jeu à 3 joueurs: 15 cartes par joueur (45 total);
+  c.Jeu à 4 joueurs: 15 cartes par joueur (60 total);
+  d.Jeu à 5 joueurs: 12 cartes par joueur (60 total);
 	-Cartes de la main:
 		a.Jeu à 2 joueurs:
 			- 3 cartes pour le 1er joueur;
@@ -307,6 +309,9 @@ Le joueur actif peut décider de terminer son tour volontairement à tout moment
 	
 7.4 Dans le cas d'une POWER FLOWER, c'est toujours au moment de la résolution que le joueur choisit quel pétale attaque ou défend.  (ex.: après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur attaquant pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4.  Dans ce cas, on procède au bris d'égalité, ce qui révèle le pétale sous le 4 de l'adversaire, et ensuite l'attaquant peut utiliser l'as comme carte suivante au combat.
 
+7.5 Si une des deux fleurs se fait éliminer (via usage du poison) durant une attaque, l'attaque échoue.
+Par exemple, si Laurent attaque avec une fleur de 3 pétales contre une fleur à 1 pétale, si son adversaire utilise un poison pour détruire le dernier pétale de sa fleur qui défend, l'attaque échoue.
+
 
 ---------------------
 8. Actions spéciales:
@@ -401,13 +406,13 @@ Jeu avec Joker:
 On appelle les quatre sortes de cartes les "couleurs". Elles sont complémentées de deux jokers. 
 
 - Fonction des cartes de couleur et des jokers, lorsque joués de la main :
-| NOM          | symbole | fonction                                  |
+| NOM          | symbole  | fonction                                  |
 | pique        | ♠️       | poison                                    | 
 | coeur        | ♥️       | engrais                                   |
 | carreau      | ♦️       | super-fleur                               | 
 | trèfle       | ♣️       | espion                                    | 
-| joker noir   | 🃏       | fonctions noires : poison ou espion       | 
-| joker rouge  | 🃏       | fonctions rouges : super-fleur ou engrais | 
+| joker noir   | 🃏       | fonctions noires: poison ou espion        | 
+| joker rouge  | 🃏       | fonctions rouges: engrais ou super-fleur  | 
 
 
 
@@ -416,6 +421,3 @@ Parking:
 4.5
 -C'est ici que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'adversaire et prouver leur domination.
 -Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.
-
-
-Attaque vs fleur à 1 pétale + poison sur défense = attaque échouée.
