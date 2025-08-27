@@ -32,19 +32,19 @@ Relecture et commentaires: P. Labrèche.
         c.Jeu à 4 joueurs: 15 cartes par joueur (60 total);
         d.Jeu à 5 joueurs: 12 cartes par joueur (60 total);
 	-Cartes de la main:
-		a.Jeu à 2 joueurs:
+		a.Jeu à 2 joueurs (7 cartes):
 			- 3 cartes pour le 1er joueur;
 			- 4 cartes pour le 2e joueur;
-		b.Jeu à 3 joueurs:
+		b.Jeu à 3 joueurs (6 cartes):
 			- 1 carte pour le 1er joueur;
 			- 2 cartes pour le 2e joueur;
 			- 3 cartes pour le 3e joueur;
-		c.Jeu à 4 joueurs:
+		c.Jeu à 4 joueurs (14 cartes):
 			- 2 cartes pour le 1er joueur;
 			- 3 cartes pour le 2e joueur;
 			- 4 cartes pour le 3e joueur;
 			- 5 cartes pour le 4e joueur;
-		d.Jeu à 5 joueurs:
+		d.Jeu à 5 joueurs (20 cartes):
 			- 2 cartes pour le 1er joueur;
 			- 3 cartes pour le 2e joueur;
 			- 4 cartes pour le 3e joueur;
@@ -69,7 +69,7 @@ Relecture et commentaires: P. Labrèche.
 ------------------
 2.1 Le jardin de chaque joueur est divisé en deux zones distinctes:
 	-Les fleurs régulières à l'avant; et
-	-Les POWER FLOWER à l'arrière (voir section 5.3).
+	-Les POWER FLOWER à l'arrière (voir section 6.3).
 	
 2.2 Réserver une zone centrale pour la pioche et le GraveRyard
 	
@@ -115,7 +115,7 @@ Relecture et commentaires: P. Labrèche.
 	
 	Exemple 1: Pour une partie à 2 joueurs, Ariane gagne la joute de roche, papier, ciseau.
 	Elle décide de jouer en 2e.  Elle prend un paquet de cartes pétales (au choix) et la main correspondant à la 2e position.
-	Elle laisse donc Adrien être premier joueur, il aura donc l'initiative d'attaque, mais avec une carte en moins qu'Ariane.
+	Elle laisse Adrien être premier joueur, il aura donc l'initiative d'attaque, mais avec une carte en moins qu'Ariane.
 	
 	Exemple 2: Pour une partie à 3 joueurs, Éléonore gagne la joute de Pareil/Pas Pareil.
 	Elle décide de jouer en 1er, favorisant l'initiative d'attaque.  Elle prend un paquet de cartes pétales et la main correspondant à la première position.
@@ -141,10 +141,13 @@ Johanne (J3)    Évelyne (J1)
 	-Nombre de pétales par fleur: minimum 2;
 	
 	Pour créer une fleur, chaque joueur empile des pétales, face cachée, en une forme radiale.
+
+	Forme radiale:
+	Pour une fleur à 3 pétales, poser un pétale sur la table, poser le second en tournant la carte de 120 degrés et en faisant chevaucher partiellement les 2 cartes.  On pose finalement le 3e pétale sur le dessus de la pile, en prenant soin de tourner la carte de 120 degrés par rapport au 2e pétale et en faisant chevaucher partiellement la nouvelle carte par-dessus les deux autres.
 	
-	Exemple 1: Avec ses 15 cartes, Émilie décide de créer 5 fleurs de 3 pétales.
-	Exemple 2: Avec ses 15 cartes, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
-	Exemple 3: Avec ses 20 cartes, Vincent décide de créer 3 fleurs de 2 pétales, 3 fleurs de 3 pétales, une fleur de 5 pétales.
+	Exemple 1: Avec ses 15 cartes pétales, Émilie décide de créer 5 fleurs de 3 pétales.
+	Exemple 2: Avec ses 15 cartes pétales, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
+	Exemple 3: Avec ses 20 cartes pétales, Vincent décide de créer 3 fleurs de 2 pétales, 3 fleurs de 3 pétales, une fleur de 5 pétales.
 
 3.4 Quand toutes les fleurs sont crées, les joueurs doivent répéter en choeur: "C'est la bataille des fleurs".
 
@@ -263,10 +266,12 @@ Le joueur actif peut décider de terminer son tour volontairement à tout moment
 		-Une fleur régulière dans son propre jardin ou dans celui d'un adversaire
 
 	Effet:
-		-Le joueur qui possède la fleur cible la déplace dans la zone POWER FLOWER ;
-		-Il rend visible tous les pétales de la fleur cible ;
+		-Le joueur qui possède la fleur cible la déplace dans la zone POWER FLOWER;
+		-Il rend visible tous les pétales de la fleur cible;
 		-On met la carte de transformation au GraveRyard après utilisation.
-	
+
+	Bonus: Voir section 12 pour détails POWER FLOWER
+
 	Exemple: Yan utilise un 3 de carreau pour transformer une de ses fleurs en POWER FLOWER.  Il révèle tous les pétales de sa fleur.  Il pourra à l'avenir choisir quel pétale combat soit à l'attaque ou à la défense.
 
 6.4 Jouer une carte de Trèfle - Espion:
@@ -290,7 +295,7 @@ Le joueur actif peut décider de terminer son tour volontairement à tout moment
 
 6.6 Créer une POWER FLOWER à l'aide de cartes de couleur:
 	Un joueur peut créer une super-fleur avec au minimum 4 cartes (dont une de chaque couleur).
-		-Cette fleur est une PF.
+		-Cette fleur est une PF (Voir section 12 pour bonus PF).
 		-Tous les pétales sont visibles.
 
 
