@@ -22,14 +22,15 @@ Relecture et commentaires: P. Labrèche.
 
 1.2 Nécessite un jeu de 54 cartes pour une partie à 2 ou 3 joueurs.
 	-À partir de 4 joueurs, utiliser plusieurs paquets.
+	-Voir section 10 pour variations à plusieurs joueurs.
 
 1.3 Distribution des cartes:
 	Lors de la distribution, on forme les paquets de départ qui seront assignés aux joueurs ultérieurement.
 	-Cartes pétales (servent à former le jardin initial d'un joueur):
 		a.Jeu à 2 joueurs: 20 cartes par joueur (40 total);
 		b.Jeu à 3 joueurs: 15 cartes par joueur (45 total);
-  c.Jeu à 4 joueurs: 15 cartes par joueur (60 total);
-  d.Jeu à 5 joueurs: 12 cartes par joueur (60 total);
+        c.Jeu à 4 joueurs: 15 cartes par joueur (60 total);
+        d.Jeu à 5 joueurs: 12 cartes par joueur (60 total);
 	-Cartes de la main:
 		a.Jeu à 2 joueurs:
 			- 3 cartes pour le 1er joueur;
@@ -38,12 +39,17 @@ Relecture et commentaires: P. Labrèche.
 			- 1 carte pour le 1er joueur;
 			- 2 cartes pour le 2e joueur;
 			- 3 cartes pour le 3e joueur;
-		c.Jeu à plus de 3 joueurs:
-			-Choisir un nombre de cartes de base pour le 1er joueur.
-			-Donner les cartes de base +1 carte au 2e joueur.
-			-Donner les cartes de base +2 cartes au 3e joueur.
-			-Et ainsi de suite pour les joueurs suivants (augmenter +1 pour chaque joueur suivant).
-			-Concernant le nombre de cartes de base, s'assurer qu'il restera au moins 3 cartes après la distribution.
+		c.Jeu à 4 joueurs:
+			- 2 cartes pour le 1er joueur;
+			- 3 cartes pour le 2e joueur;
+			- 4 cartes pour le 3e joueur;
+			- 5 cartes pour le 4e joueur;
+		d.Jeu à 5 joueurs:
+			- 2 cartes pour le 1er joueur;
+			- 3 cartes pour le 2e joueur;
+			- 4 cartes pour le 3e joueur;
+			- 5 cartes pour le 4e joueur;
+			- 6 cartes pour le 5e joueur;
 
 1.4 Pioche: Les cartes non-distribuées sont placées en une pile face cachée qui forme la pioche initiale.
 
@@ -336,23 +342,39 @@ En cas de mort simultanée des deux joueurs (lors d'une attaque), l'attaquant ga
 ---------------
 10. Variations:
 ---------------
-a. Varier la distribution initiale au goût:
-	1.Nombre de cartes pétales:
+Varier la distribution initiale au goût:
+    1.Nombre de cartes pétales:
 		-Plus de cartes pétales pour une partie plus longue.
 		-Moins de cartes pétales pour une partie plus courte.
 	2.Nombre de cartes en main (respecter +1 pour 2e joueur, etc.)
-		-Plus de cartes en main pour une partie plus courtes.
+		-Plus de cartes en main pour une partie plus courte.
 		-Moins de cartes en main pour une partie plus longue.
 	3.Handicap:
 		-Joueur débutant:
-			a.Donner plus de cartes en main à un joueur débutant.
-			b.Donner plus de cartes pétales à un joueur débutant
+			a.Donner plus de cartes pétales à un joueur débutant.
+			b.Donner plus de cartes en main à un joueur débutant.
 		-Joueur avancé:
-			a.Donner moins de cartes en main à un joueur avancé.
+			a.Donner moins de cartes pétales à un joueur avancé.
 			b.Donner moins de cartes en main à un joueur avancé.
-	4.Partie longue "marathon":
-		-Si vous désirez jouer de plus longues parties, ajouter des paquets supplémentaires et augmentez les distributions de départ à volonté.
-			
+	5.Règles générales pour la distribution initiales (à respecter en tout temps):
+		-Décider du nombre de paquets (54 cartes pour 1, 108 cartes pour 2, etc.)
+		-Choisir un nombre de cartes pétales qui sera le même pour tous les joueurs.
+		-Choisir un nombre de cartes en main de base choisir dans l'intervalle [-1:10].
+		-Donner les cartes de base +1 carte au 1er joueur.
+		-Donner les cartes de base +2 carte au 2e joueur.
+		-Donner les cartes de base +3 cartes au 3e joueur.
+		-Et ainsi de suite pour les joueurs suivants (augmenter +1 pour chaque joueur suivant).
+		-Exception pour handicap défini ci-haut.
+		-Concernant le nombre de cartes de base en main, s'assurer qu'il restera au moins 3 cartes pour former la pioche initiale après la distribution.
+		-On peut utiliser la formule suivante pour vérifier le nombre de cartes de départ nécessaires pour former les jardins et les mains de départ:
+			 N*P + N*MB + MS  -> N*P + N*MB + N(N+1)/2
+			où:
+			-N = Nombre de joueurs
+			-P = Nombre de cartes pétales
+			-MB = Nombre de cartes en main de base
+			-MS = Nombre de cartes en main supplémentaires (nombre triangulaire = N(N+1)/2)
+
+		Exemple: Pour un jeu à 5 joueurs, on jouera avec 2 paquets, 108 cartes au total, on choisit 15 cartes par personne pour les pétales, on décide que le nombre de cartes de base en main est 1.  On vérifie que 108-(5*15 + 5*1 + 5*6/2)=13>3.  La configuration choisie pour la partie est valide.
 	
 --------------
 11. Jokers:
