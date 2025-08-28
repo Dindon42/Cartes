@@ -136,14 +136,14 @@ Johanne (J3)    Évelyne (J1)
 
 3.2 Chaque joueur prend connaissance de sa main.
 
-3.3 Chaque joueur construit des fleurs régulières, à sa guise:
+3.3 Chaque joueur construit des fleurs régulières, à sa guise, avec ses cartes pétales:
 	-Nombre de fleurs au choix;
 	-Nombre de pétales par fleur: minimum 2;
 	
 	Pour créer une fleur, chaque joueur empile des pétales, face cachée, en une forme radiale.
 
 	Forme radiale:
-	Pour une fleur à 3 pétales, poser un pétale sur la table, poser le second en tournant la carte de 120 degrés et en faisant chevaucher partiellement les 2 cartes.  On pose finalement le 3e pétale sur le dessus de la pile, en prenant soin de tourner la carte de 120 degrés par rapport au 2e pétale et en faisant chevaucher partiellement la nouvelle carte par-dessus les deux autres.
+	Pour une fleur à 3 pétales, poser un pétale sur la table, poser le second en tournant la carte de 120 degrés et en faisant chevaucher partiellement les 2 cartes.  On pose finalement le 3e pétale sur le dessus de la pile, en prenant soin de tourner la carte de 120 degrés par rapport au 2e pétale et en faisant chevaucher partiellement la nouvelle carte par-dessus les deux autres.  On obtient une belle fleur en une pile de forme radiale.
 	
 	Exemple 1: Avec ses 15 cartes pétales, Émilie décide de créer 5 fleurs de 3 pétales.
 	Exemple 2: Avec ses 15 cartes pétales, Chloé décide de créer 3 fleurs de 4 pétales et une de 3.
@@ -172,6 +172,7 @@ Johanne (J3)    Évelyne (J1)
 4.5 Une fois l'attaque déclarée, les deux joueurs engagés peuvent utiliser les pouvoirs de leurs cartes en main en répliquant à tour de rôle, ou en passant leur droit de réplique.
 	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer l'attaque en cours (les deux fleurs belligérantes), ces cartes peuvent affaiblir ou renforcer les autres fleurs des jardins.
 	-Lorsque les deux joueurs passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on résout l'attaque.
+	-Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.  Par exemple, si un joueur utilise un poison pour détruire le seul pétale visible sur le dessus d'une fleur régulière, on révèle le "nouveau" pétale du dessus et on poursuit la bataille.
 
 4.6 Résolution de l'attaque:
 	Attaque réussie:
@@ -183,7 +184,8 @@ Johanne (J3)    Évelyne (J1)
 
 	Attaque échouée:
 		Condition d'une attaque échouée: La fleur défendante a son pétale du dessus de valeur plus élevé ou égale au pétale du dessus de la fleur attaquante.
-		-Les fleurs restent indemnes, mais la fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir 7.1 pour cas spécial).
+		-Les fleurs restent dans leur état actuel: on ne retire aucun pétale du jeu.  Si on a révélé des pétales, on les laisse révélés, si on a utilisé des cartes en main pour modifier les fleurs combattantes, ces modifications restent actives sur le plateau de jeu (voir section 6).
+		-La fleur qui a attaqué est épuisée.  Elle ne peut plus attaquer pour le restant du tour (voir 7.1 pour cas spécial).
 		-Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.
 		-Si toutes ses fleurs sont épuisées, le joueur doit terminer son tour et il ne pioche aucune carte.
 
@@ -409,7 +411,7 @@ Jeu avec Joker:
 	L'apparition d'une super-fleur découle de l'une des possibilités suivantes:
 	-Transformation d'une fleur régulière, qui est promue suite à l'usage d'un carreau (voir section 6.3);
 	-Création en tant que POWER FLOWER (voir section 6.6)
-	-Lorsqu'un PF attaque ou lorsqu'un PF se défend, son propriétaire choisit le pétale combattant au moment de la résolution. C'est l'avantage du PF.
+	-Lorsqu'un PF attaque ou lorsqu'un PF se défend, son propriétaire choisit le pétale combattant au moment de la résolution. C'est l'avantage de la PF.
 
 -Attaque: Une attaque est déclarée entre deux fleurs au choix du joueur attaquant.
 
@@ -433,18 +435,10 @@ Jeu avec Joker:
 On appelle les quatre sortes de cartes les "couleurs". Elles sont complémentées de deux jokers. 
 
 - Fonction des cartes de couleur et des jokers, lorsque joués de la main :
-| NOM          | symbole  | fonction                                  |
-| pique        | ♠️       | poison                                    | 
+| NOM          | symbole | fonction                                  |
+| pique        | ♠️       | poison                                    |
 | coeur        | ♥️       | engrais                                   |
-| carreau      | ♦️       | super-fleur                               | 
-| trèfle       | ♣️       | espion                                    | 
-| joker noir   | 🃏       | fonctions noires: poison ou espion        | 
-| joker rouge  | 🃏       | fonctions rouges: engrais ou super-fleur  | 
-
-
-
-Parking:
-
-4.5
--C'est ici que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'adversaire et prouver leur domination.
--Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.
+| carreau      | ♦️       | super-fleur                               |
+| trèfle       | ♣️       | espion                                    |
+| joker noir   | 🃏       | fonctions noires: poison ou espion        |
+| joker rouge  | 🃏       | fonctions rouges: engrais ou super-fleur  |
