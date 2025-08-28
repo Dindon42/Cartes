@@ -194,7 +194,6 @@ Johanne (J3)    Évelyne (J1)
 5. Exécution d'un tour:
 -----------------------
 À son tour, un joueur peut exécuter les actions suivantes, dans l'ordre qui suit:
-Le joueur actif peut décider de terminer son tour volontairement à tout moment.
 
 
 	1.Pioche:
@@ -222,8 +221,12 @@ Le joueur actif peut décider de terminer son tour volontairement à tout moment
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
 	4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou jusqu'à ce que:
 		-Fleurs multiples: Toutes les fleurs du joueur actif sont épuisées.
-		-Fleur unique (attaquant): Toutes les fleurs adverses sont épuisées. 
+		-Fleur unique (attaquant): Toutes les fleurs adverses sont épuisées.
+	5.Fin du tour:
+		-Toutes les fleurs épuisées redeviennent actives.
+		-On passe au joueur suivant, dans le sens horaire.
 
+Note: Le joueur actif peut décider de terminer son tour volontairement à tout moment, auquel cas il ne pourra pas exécuter de pioche de victoire, passer directement à l'étape 5.
 
 -------------------------------
 6. Jouer des cartes de sa main:
