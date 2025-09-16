@@ -369,11 +369,18 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	-Même si on compare plusieurs pétales pour briser l'égalité, seulement le premier pétale du dessus (fleurs régulières) ou le premier sélectionné (PF) sont défaussés en cas d'attaque réussie.
 	-La fleur cible est capturée comme pour une attaque normale si le bris d'égalité est en faveur de l'attaquant.
 	
+	Exemple 1: Une fleur [10,caché] attaque une fleur [10,caché,caché].  On révèle d'abord le 2e pétale de chaque fleur.  La résultante est [10,8] vs [10,8,caché].  La fleur défenderesse étant plus grosse, c'est cette dernière qui gagne la bataille.  L'attaque échoue.
+	
+	Exemple 2: Une fleur [caché,caché,caché] attaque une super-fleur [7,3,2].  On révèle d'abord le pétale du dessus de la fleur attaquante: [7,caché,caché].  Le défendeur choisit le 7 comme premier pétale pour la bataille.  On révèle donc le 2e pétale de la fleur attaquante: [7,5,caché].  Peu importe le choix du défendeur pour son 2e pétale, il perdra la bataille.  On passe à la résolution, les 2 pétales du dessus sont défaussés.  L'attaquant vole la fleur modifiée [3,2] de son adversaire.
+	
+	
 7.4 Dans le cas d'une POWER FLOWER, c'est dans l'étape 5.3.1 (avant la résolution) que le joueur choisit quel pétale attaque ou défend.
 
-	Exemple: Après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur attaquant pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4.  Dans ce cas, on procède au bris d'égalité, ce qui révèle le pétale sous le 4 de l'adversaire, c'est un roi.  L'attaquant utilise son As comme carte suivante au combat pour briser l'égalité.  Advenant qu'aucun joueur ne joue de carte supplémentaire, l'attaque réussit et les deux 4 sont défaussés du jeu.  Les autres cartes qui ont pris part à la détermination du bris d'égalité restent en jeu.  La résultante est la suivante:
+	Exemple 1: Après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur attaquant pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4.  Dans ce cas, on procède au bris d'égalité, ce qui révèle le pétale sous le 4 de l'adversaire, c'est un roi.  L'attaquant utilise son As comme carte suivante au combat pour briser l'égalité.  Advenant qu'aucun joueur ne joue de carte supplémentaire, l'attaque réussit et les deux 4 sont défaussés du jeu.  Les autres cartes qui ont pris part à la détermination du bris d'égalité restent en jeu.  La résultante est la suivante:
 		-Joueur attaquant: [A,Q,5] et [Roi, caché, caché]
 		-Joueur défendant: Fleur volée par le joueur attaquant.
+		
+	Exemple 2: Une super-fleur [Q,5,2] attaque une fleur régulière [caché,caché,caché].  Le défendeur révèle le pétale du dessus de sa fleur: [6,caché,caché].  L'attaquant, jugeant que sa dame pourrait mieux servir (se battre contre un pétale plus fort que le 6 de l'adversaire), décide de choisir son 2 comme pétale attaquant.  L'attaque échoue.
 
 7.5 Si une des deux fleurs se fait détruire (via usage du poison) durant une attaque, l'attaque échoue.
 
@@ -540,19 +547,26 @@ Jeu avec Joker:
 	-Le joueur actif pioche une carte et l'ajoute à sa main.
 	-Cette pioche est disponible à tout tour, aucune exception.
 	
-12.17 Cible / avantage tactique / stratégique:
-	-En général, il est possible de cibler n'importe quel joueur avec les actions (section 6.1 à 6.4).
-	-Il pourrait semble contre-productif d'utiliser:
-		-un coeur sur l'adversaire;
-		-un pique sur soi;
-		-un carreau sur l'adversaire;
-	-Ces actions peuvent donner un avantage stratégique au joueur qui les utilise en moment opportun:
-		-Utiliser un coeur sur l'adversaire peut être utile pour:
-			-Contre une fleur régulière, le nouveau pétale ainsi ajouté prend le dessus sur le pétale du dessus précédent.
-			-Peut être utilisé sur une fleur forte pour l'affaiblir et espérer gagner la fleur avec sa carte forte.
-		-Utiliser un pique sur soi peut être utile pour:
-			-Détruire un pétale de faible force et espérer en retourner un d'une force supérieure;
-			-Détruire un petit coeur déposé sur une fleur forte par un adversaire;
-			-Faire échouer une attaque en détruisant le dernier pétale d'une fleur (voir section 7.5), espérer que l'adversaire ne sera pas capable de gagner d'autres attaques et ainsi lui faire perdre sa pioche de victoire.
-		-Utiliser un carreau sur un adversaire peut être utile pour:
-			-Rendre visible tous les pétales de cette fleur dans l'espoir de pouvoir utiliser un pique fort pour affaiblir ladite fleur.
+------------------------------------
+13. Cibles / tactiques / stratégies:
+------------------------------------
+En général, il est possible de cibler n'importe quel joueur avec les actions (section 6.1 à 6.4).
+
+Il pourrait semble contre-productif d'utiliser:
+	-un coeur sur l'adversaire;
+	-un pique sur soi;
+	-un carreau sur l'adversaire;
+
+Ces actions peuvent donner un avantage stratégique au joueur qui les utilise au moment opportun:
+	-Utiliser un coeur sur l'adversaire peut être utile pour:
+		-Contre une fleur régulière, le nouveau pétale ainsi ajouté prend le dessus sur le pétale du dessus précédent.
+		-Peut être utilisé sur une fleur forte pour l'affaiblir et espérer gagner la fleur avec sa carte forte.
+	-Utiliser un pique sur soi peut être utile pour:
+		-Détruire un pétale de faible force et espérer en retourner un d'une force supérieure;
+		-Détruire un petit coeur déposé sur une fleur forte par un adversaire;
+		-Faire échouer une attaque en détruisant le dernier pétale d'une fleur (voir section 7.5), espérer que l'adversaire ne sera pas capable de gagner d'autres attaques et ainsi lui faire perdre sa pioche de victoire.
+	-Utiliser un carreau sur un adversaire peut être utile pour:
+		-Rendre visible tous les pétales d'une fleur dans l'espoir de pouvoir utiliser un pique fort pour affaiblir ladite fleur.
+	-Choisir un pétale faible d'une PF pour volontairement perdre une bataille.
+		-Peut être utile pour préserver un pétale fort plutôt que de gaspiller ce pétale contre une fleur faible.
+		-Voir section 7.4, Exemple 2.
