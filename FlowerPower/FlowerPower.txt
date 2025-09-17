@@ -176,7 +176,7 @@ Johanne (J3)    Évelyne (J1)
 	
 4.5 Une fois l'attaque déclarée, les deux joueurs engagés peuvent utiliser les pouvoirs de leurs cartes en main en répliquant à tour de rôle, ou en passant leur droit de réplique.
 	-Les cartes utilisées n'ont pas nécessairement besoin d'influencer l'attaque en cours (les deux fleurs belligérantes), ces cartes peuvent affaiblir ou renforcer les autres fleurs des jardins.
-	-Seuls les joueurs engagés dans l'attaque peuvent jouer des cartes de leur main.  Ces cartes peuvent influencer n'importe quel jardin (Voir section 7.2).
+	-Seuls les joueurs engagés dans l'attaque peuvent jouer des cartes de leur main.  Ces cartes peuvent uniquement influencer les jardins des belligérants (Voir section 7.2).
 	-Lorsque les deux joueurs passent, soit parce qu'ils ne veulent plus ou ne peuvent plus jouer de cartes de leurs mains, on résout l'attaque.
 	-Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.  Par exemple, si un joueur utilise un poison pour détruire le seul pétale visible sur le dessus d'une fleur régulière à trois pétales, on révèle le "nouveau" pétale du dessus et on poursuit la bataille.
 
@@ -248,7 +248,7 @@ Johanne (J3)    Évelyne (J1)
 	5.4.Répéter 5.2 et 5.3 jusqu'à ce qu'une attaque soit réussie ou jusqu'à ce que:
 		-Fleurs multiples: Toutes les fleurs du joueur actif sont épuisées.
 		-Fleur unique (attaquant): Toutes les fleurs adverses sont épuisées.
-	5.5 Conditions de victoire:
+	5.5 Conditions d'élimination et de victoire:
 		-Vérification de la mort des adversaires:
 			-Si un adversaire n'a plus de fleur celui-ci est éliminé.
 		-Vérification de victoire du joueur actif:
@@ -356,7 +356,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 7.2 Exclusivité des belligérants:
 	-Lors d'une bataille entre deux joueurs, seuls ces deux joueurs peuvent jouer des cartes de leur main pour influencer le sort de la bataille.
 	-Ces cartes peuvent influencer des fleurs hors-bataille.
-	-Ces cartes peuvent également cibler le jardin de tout autre joueur.  Pas seulement les belligérants. Par contre seuls les belligérants peuvent jouer des cartes de leur main.
+	-Ces cartes ne peuvent pas cibler le jardin des autres joueurs (ceux qui ne sont pas impliqués dans la bataille.
 
 7.3 Bris d'égalité:
 	-Dans le cas d'une égalité, l'issue sera à déterminer.
@@ -372,6 +372,8 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	Exemple 1: Une fleur [10,caché] attaque une fleur [10,caché,caché].  On révèle d'abord le 2e pétale de chaque fleur.  La résultante est [10,8] vs [10,8,caché].  La fleur défenderesse étant plus grosse, c'est cette dernière qui gagne la bataille.  L'attaque échoue.
 	
 	Exemple 2: Une fleur [caché,caché,caché] attaque une super-fleur [7,3,2].  On révèle d'abord le pétale du dessus de la fleur attaquante: [7,caché,caché].  Le défendeur choisit le 7 comme premier pétale pour la bataille.  On révèle donc le 2e pétale de la fleur attaquante: [7,5,caché].  Peu importe le choix du défendeur pour son 2e pétale, il perdra la bataille.  On passe à la résolution, les 2 pétales du dessus sont défaussés.  L'attaquant vole la fleur modifiée [3,2] de son adversaire.
+	
+	Exemple 3: Une fleur [4,7,10] attaque une fleur [4,7,9].  Les deux 4 sont défaussés et l'attaquant capture ce qui reste de la fleur de son adversaire: [7,9]
 	
 	
 7.4 Dans le cas d'une POWER FLOWER, c'est dans l'étape 5.3.1 (avant la résolution) que le joueur choisit quel pétale attaque ou défend.
