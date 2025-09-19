@@ -237,7 +237,8 @@ Johanne (J3)    Évelyne (J1)
 		5.3.3 Si au moins une POWER FLOWER est impliquée dans l'attaque, répéter 5.3.1 et 5.3.2 jusqu'à ce que les pétales combattants soient confirmés par les propriétaires desdites PF.
 		5.3.4 Résolution de l'attaque. (Voir section 7.4):
 			Attaque réussie:
-				-Vol de la fleur adverse;
+				-Defausse des pétales combattants;
+				-Capture de la fleur adverse;
 				-Pioche de victoire:					
 					-La pioche de victoire est disponible à tout tour (même au premier tour ou si le joueur a exécuté l'action Pioche (tour entier) au dernier tour).
 				-Dernière volonté (cas spécial, voir 8.2 et 12.11) - aucune réplique possible de l'adversaire.
@@ -245,9 +246,12 @@ Johanne (J3)    Évelyne (J1)
 				-Fleur attaquante non-unique: La fleur attaquante est épuisée;
 				ou
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
-	5.4.Répéter 5.2 et 5.3 jusqu'à ce qu'une attaque soit réussie ou jusqu'à ce que:
-		-Fleurs multiples: Toutes les fleurs du joueur actif sont épuisées.
-		-Fleur unique (attaquant): Toutes les fleurs adverses sont épuisées.
+	5.4 Fin du tour après une attaque réussie
+    -Une attaque réussie met immédiatement fin au tour du joueur actif, après application de tous les effets listés à 5.3.4.
+    -Le joueur actif ne peut donc réussir au maximum qu’une seule attaque par tour.
+    -Si aucune attaque n’a réussi, le joueur peut répéter 5.2 (jouer des cartes de la main) et 5.3 (attaquer avec une fleur) jusqu’à ce que:
+        -Toutes ses fleurs soient épuisées (fleurs attaquantes multiples), ou
+        -Toutes les fleurs adverses soient épuisées (fleur attaquante unique).
 	5.5 Conditions d'élimination et de victoire:
 		-Vérification de la mort des adversaires:
 			-Si un adversaire n'a plus de fleur celui-ci est éliminé.
