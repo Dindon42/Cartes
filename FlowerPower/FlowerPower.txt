@@ -354,7 +354,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	Exemple1: Julien utilise son 3 de trèfle pour espionner la main de Louis-Philippe (3 cartes).  Il trouve [R_Pique, 5_Coeur, 7_Carreau]
 	Exemple2: Stéphane utilise son 5 de trèfle pour espionner sa propre fleur de 4 pétales (tous cachés).  Il observe [A_Coeur, 3_Pique, 8_Pique, Joker_Noir].  Cette fleur est très forte, il pourra donc tenter de protéger cette fleur au meilleur de ses capacités et potentiellement de la transformer en PF.
 
-6.5 Jouer 3 cartes ou plus (couleurs au choix) - Action: créer une fleur régulière (FR3+):
+6.5 Jouer 3 cartes ou plus (peu importe les couleurs, variées, au choix) - Action: créer une fleur régulière (FR3+):
 	Un joueur peut créer une nouvelle fleur dans son propre jardin avec un minimum de 3 cartes.
 		-Cette fleur est régulière.
 		-L'ordre des pétales est choisi par le joueur qui crée la fleur.
