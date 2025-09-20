@@ -342,7 +342,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	Exemple: Yan utilise un 3 de carreau pour transformer une de ses fleurs en POWER FLOWER.  Il révèle tous les pétales de sa fleur.  Il pourra à l'avenir choisir quel pétale combat soit à l'attaque ou à la défense.
 
 6.4 Jouer une carte de Trèfle - Action Espion:
-	Permet d'espionner une fleur ou la main de l'adversaire.
+	Permet d'espionner une fleur (sienne ou adverse) ou la main d'un adversaire.
 	
 	Cibles: Fleur (sienne, adverse), Main (adverse)
 	
