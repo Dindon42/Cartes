@@ -19,7 +19,7 @@ Relecture et commentaires: P. Labrèche.
 1. Préparation:
 ---------------
 1.1 Nombre de joueurs: 2 ou +
-	-Recomendation: 3 joueurs
+	-Recommandation: 3 joueurs
 
 1.2 Nécessite un jeu de 54 cartes pour une partie à 2 ou 3 joueurs.
 	-À partir de 4 joueurs, utiliser plusieurs paquets.
@@ -190,7 +190,7 @@ Johanne (J3)    Évelyne (J1)
 			
 		Effets:
 			-Les deux pétales ayant combattu sont retirés du jeu et défaussés dans le GraveRyard.
-			-Après une attaque réussie (et la defaussé des pétales combattants), l'attaquant capture la fleur de l'adversaire et la plante dans son jardin (une PF reste une PF et est plantée dans la zone appropriée, avec ses pétales visibles).
+			-Après une attaque réussie (et la défausse des pétales combattants), l'attaquant capture la fleur de l'adversaire et la plante dans son jardin (une PF reste une PF et est plantée dans la zone appropriée, avec ses pétales visibles).
 			-Il pioche ensuite une carte qu'il ajoute à sa main (pioche de victoire).
 			-Le tour se termine et le tour passe au prochain joueur.
 			-Voir section 7.3 pour bris d'égalité.
@@ -222,14 +222,14 @@ Johanne (J3)    Évelyne (J1)
 		-Passer à 5.6.
 	5.2.Jouer une/des cartes de sa main (voir section 6):
 		-Peut cibler soi-même ou un adversaire.
-		-Aucune réplique de l'adversaire possible à ce stade.
+		-Aucune réplique de l'adversaire possible à ce stade, seul le joueur actif peut jouer.
 		-Répéter 5.2. autant de fois que souhaité.
 		-Vérifier transitions fleurs multiples / unique (voir section 12.10)
 	5.3.Attaque des fleurs (détails supplémentaires en section 7)
 		5.3.1 Pétales combattants:
 			a. Pétale attaquant: Révélation (Fleurs Régulières) ou sélection par le joueur attaquant (POWER FLOWERs);
 			b. Pétale défendant: Révélation (Fleurs Régulières) ou sélection par le joueur défendant (POWER FLOWERs);
-   c. Répéter a. et b. tant qu'il y a égalité (voir section 7.3)
+			c. Répéter a. et b. tant qu'il y a égalité (voir section 7.3);
 		5.3.2 Déroulement de la bataille des fleurs: en alternance, en commençant par l'attaquant:
 			a. L'attaquant peut jouer une/des carte de sa main (voir section 6);
 			b. Le défendant peut jouer une/des carte de sa main en réplique (voir section 6);
@@ -239,29 +239,31 @@ Johanne (J3)    Évelyne (J1)
 		5.3.4 Résolution de l'attaque. (Voir section 7.4):
 			Attaque réussie:
 				-Defausse des pétales combattants;
-				-Capture de la fleur adverse;
-				-Pioche de victoire:					
+				-Capture de la fleur adverse, avec ses pétales restants;
+					-Une fleur qui n'a plus de pétale restant (fleur de 1 pétale ciblée par l'attaque) est considérée comme capturée et l'attaquant a droit à sa pioche de victoire.
+				-Pioche de victoire:
 					-La pioche de victoire est disponible à tout tour (même au premier tour ou si le joueur a exécuté l'action Pioche (tour entier) au dernier tour).
 				-Dernière volonté (cas spécial, voir 8.2 et 12.11) - aucune réplique possible de l'adversaire.
 			Attaque échouée:
 				-Fleur attaquante non-unique: La fleur attaquante est épuisée;
 				ou
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
-	5.4 Fin du tour après une attaque réussie
-    -Une attaque réussie met immédiatement fin au tour du joueur actif, après application de tous les effets listés à 5.3.4.
-    -Le joueur actif ne peut donc réussir au maximum qu’une seule attaque par tour.
-    -Si aucune attaque n’a réussi, le joueur peut répéter 5.2 (jouer des cartes de la main) et 5.3 (attaquer avec une fleur) jusqu’à ce que:
-        -Toutes ses fleurs soient épuisées (fleurs attaquantes multiples), ou
-        -Toutes les fleurs adverses soient épuisées (fleur attaquante unique).
+	5.4 Condition de fin du tour (après une attaque réussie, ou épuisement de toutes les fleurs attaquantes ou défendantes) ou poursuite de l'attaque:
+		-Une attaque réussie met immédiatement fin au tour du joueur actif, après application de tous les effets listés à 5.3.4.
+			-Le joueur actif ne peut donc réussir au maximum qu’une seule attaque par tour.
+		-Si aucune attaque n’a réussi, le joueur peut répéter 5.2 (jouer des cartes de la main) et 5.3 (attaquer avec une fleur) jusqu’à ce que:
+			-Toutes ses fleurs soient épuisées (fleurs attaquantes multiples); ou
+			-Toutes les fleurs adverses soient épuisées (fleur attaquante unique).
 	5.5 Conditions d'élimination et de victoire:
-		-Vérification de la mort des adversaires:
+		-Vérification de l'élimination des adversaires:
 			-Si un adversaire n'a plus de fleur celui-ci est éliminé.
 		-Vérification de victoire du joueur actif:
 			-Si tous les adversaires sont morts, le joueur actif gagne la partie.
 		-Vérification de mort du joueur actif:
 			-Si le joueur actif n'a plus de fleurs, le joueur actif est éliminé.
+		-Dans une partie à 3 joueurs ou plus, lorsqu'un joueur est éliminé, le joueur responsable de cette élimination pioche immédiatement une carte supplémentaire (pioche d'élimination).
 	5.6.Fin du tour:
-		-Toutes les fleurs épuisées redeviennent actives.
+		-Toutes les fleurs épuisées (jardin de l'attaquant et tous les jardins adverses) redeviennent actives.
 		-On passe au joueur suivant, dans le sens horaire.
 
 Note: Le joueur actif peut décider de terminer son tour volontairement à tout moment, auquel cas il ne pourra pas exécuter de pioche de victoire, passer directement à l'étape 5.5, puis 5.6.
@@ -282,7 +284,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
     Effet:
 	Le joueur défausse la carte poison et le pétale cible après utilisation du poison.
 	
-	N.B. L'action poison ne peut être contrée, mais le joueur ciblé peut jouer une/des cartes en réplique si l'action poison a été jouée à 5.3.2.  L'action poison se résout immédiatement, le pétale ciblé est détruit dans possibilité de prévenir sa destruction. Les joueurs peuvent néanmoins continuer à jouer des cartes tant que la bataille n'est pas résolue.
+	N.B. L'action poison ne peut être contrée, mais le joueur ciblé peut jouer une/des cartes en réplique si l'action poison a été jouée à 5.3.2.  L'action poison se résout immédiatement, le pétale ciblé est détruit sans possibilité de prévenir sa destruction. Si joué lors d'une bataille (5.3.2), les joueurs peuvent néanmoins continuer à jouer des cartes tant que la bataille n'est pas résolue.
 	
 	Exemple 1: Johanne utilise le roi de pique qu'elle a dans sa main pour détruire le roi de coeur visible sur la fleur de Pierre.
 	Exemple 2: Thérèse utilise le sept de pique qu'elle a dans sa main pour détruire le trois de carreau visible sur la fleur de Robert.
@@ -300,19 +302,24 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	    -La carte d'engrais devient un pétale. 
 		-Le pétale ajouté est placé n'importe où dans la pile de la fleur cible.
 		-Le pétale reste visible là où il est inséré.
-		-Si le pétale est placé sur le dessus, la force de l'attaque s'actualise avec la force du nouveau pétale.
+		-Si le pétale est placé sur le dessus (ou en position intermédiaire en condition de bris d'égalité), la force de l'attaque s'actualise avec la force du nouveau pétale, en attaque ou en défense.
 		-Peut être un joker rouge ou une carte de coeur.
 		-La force de l'engrais définit la force du pétale.
 	
- NB: Pour une fleur de 3 pétales, peut être placé:
- -Sur le dessus (devient le nouveau pétale combattant);
- -Entre le 1er pétale et le 2e pétale;
- -Entre le 2e pétale et le 3e pétale;
- -Sous le 3e pétale.
- -Les positions intermédiaires peuvent être utiles pour bris d'égalité ou autre stratégie.
+	NB: Pour une fleur de 3 pétales, peut être placé:
+		-Sur le dessus (devient le nouveau pétale combattant);
+		-Entre le 1er pétale et le 2e pétale;
+		-Entre le 2e pétale et le 3e pétale;
+		-Sous le 3e pétale.
+	Les positions intermédiaires peuvent être utiles pour bris d'égalité (Exemple 3 ci-bas) ou autre stratégie.
+	
+	NB2: L'engrais peut être ajouté en cours de bataille pour renverser la situation:
+		-Ajout d'un coeur fort à une fleur défendante faible;
+		-Ajout d'un coeur faible à une fleur adverse forte;
 
 	Exemple 1: Michel ajoute l'As de coeur à une de ses super-fleur.
 	Exemple 2: Évelyne ajoute un 2 de coeur (face visible) sur le dessus d'une fleur forte d'Arnaud.  Elle espère pouvoir remporter facilement cette victoire en mettant un petit coeur sur une fleur adverse.
+	Exemple 3: Jean, engagé dans un bris d'égalité [3,7,9] vs [3,7,9] décide de jouer son 8coeur entre le 1er et 2e pétale pour briser l'égalité.  [3,8,7,9] vs [3,7,9] Jean remporte la bataille et capture la fleur adverse [7,9] après défausse des pétales combattants (voir section 7.3).
 		
 6.3 Jouer une carte de Carreau - Action Transformateur en POWER FLOWER:
 	Transforme une fleur régulière en super-fleur.
@@ -326,7 +333,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 		-On met la carte de transformation au GraveRyard après utilisation.
 
 	Bonus: Voir sections 7.4 et 12.4 pour détails POWER FLOWER
-
+	
 	Exemple: Yan utilise un 3 de carreau pour transformer une de ses fleurs en POWER FLOWER.  Il révèle tous les pétales de sa fleur.  Il pourra à l'avenir choisir quel pétale combat soit à l'attaque ou à la défense.
 
 6.4 Jouer une carte de Trèfle - Action Espion:
@@ -380,7 +387,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	-Dans le cas d'un nombre identique de pétales (1 pétale vs 1 pétale, 2 vs 2, etc.), les joueurs doivent continuer en utilisant leurs cartes en main pour briser l'égalité.  Si aucun joueur ne peut briser l'égalité, l'attaque échoue.
 	-Même si on compare plusieurs pétales pour briser l'égalité, seulement le premier pétale du dessus (fleurs régulières) ou le premier sélectionné (PF) sont défaussés en cas d'attaque réussie.
 	-La fleur cible est capturée comme pour une attaque normale si le bris d'égalité est en faveur de l'attaquant.
- -Tant qu'il y a égalité, on révèle les pétales de subséquents (5.3.1 c.). Lorsqu'on arrive à une situation limite (plus de pétales à révéler ou égalité brisée), on réouvre le jeu des cartes de la main (5.3.2).
+	-Tant qu'il y a égalité, on révèle les pétales de subséquents (5.3.1 c.). Lorsqu'on arrive à une situation limite (plus de pétales à révéler ou égalité brisée), on réouvre le jeu des cartes de la main (5.3.2).
 	
 	Exemple 1: Une fleur [10,caché] attaque une fleur [10,caché,caché].  On révèle d'abord le 2e pétale de chaque fleur.  La résultante est [10,8] vs [10,8,caché].  La fleur défenderesse étant plus grosse, c'est cette dernière qui gagne la bataille.  L'attaque échoue.
 	
@@ -427,6 +434,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 --------------
 Le vainqueur est le dernier joueur vivant!
 En cas de mort simultanée des deux joueurs (lors d'une attaque), l'attaquant gagne.
+L'élimination d'un joueur entraîne une pioche d'élimination. (Partie à 3+ joueurs)
 
 
 ---------------
@@ -530,15 +538,17 @@ Jeu avec Joker:
 	-Transition en cours de tour:
 		-Fleurs multiples -> Fleur unique: Si pendant son tour, le joueur actif perd une fleur (soit par auto-sabotage ou dû à l'action d'un adversaire et se retrouve en situation de fleur unique, celle-ci redevient active, si elle était précédemment épuisée.
 		-Fleur unique -> Fleurs multiples: Si pendant son tour, le joueur actif crée une fleur et se retrouve en situation de fleurs multiples, les fleurs épuisées de l'adversaire redeviennent actives et peuvent être attaquées par la nouvelle fleur.
- -Si un adversaire crée une fleur pendant le tour du joueur actif, cette fleur peut être ciblée (la fleur n'est pas épuisée)
+	-Si un adversaire crée une fleur pendant le tour du joueur actif, cette fleur peut être ciblée (la fleur n'est pas épuisée)
 	-Lorsqu'un joueur termine son tour, toutes les fleurs épuisées (peu importe le jardin) redeviennent actives.
- -L'intention de ces règles est de limiter le nombre d'attaques et d'assurer que le tour du joueur actif se termine sans boucle infinie.
+	
+	Note: L'intention de ces règles est de limiter le nombre d'attaques et d'assurer que le tour du joueur actif se termine sans boucle infinie.
 
 12.11 Dernière Volonté: Action spéciale qui suit une attaque réussie alors que le joueur actif n'a plus de fleur dans son jardin. Voir sections 5.3.4 et 8.2.
-	-Le joueur actif peut jouer une carte de sa main.
-	-Généralement il souhaitera jouer un pique pour détruire la dernière fleur du dernier adversaire.
-	-Il peut cependant jouer toute carte de sa main.
-	-Il peut viser l'adversaire de son choix.
+	-Le joueur actif peut jouer une/des cartes de sa main (n'importe quelle action de la section 6).
+	-Généralement il souhaitera jouer un pique pour détruire la dernière fleur du dernier adversaire ou se créer une fleur.
+	-Il peut cependant jouer toute(s) carte(s) de sa main.
+	-Il peut viser le joueur de son choix (soi-même ou un adversaire).
+	-Si la dernière volonté entraîne l'élimination d'un joueur, le joueur actif a droit à la pioche d'élimination et à une autre dernière volonté.
 
 12.12 Forces des cartes:
 	-Les cartes varient en force, énumérées ici du plus fort au plus faible: Joker,A,K,Q,J,10,9,8,7,6,5,4,3,2
@@ -563,11 +573,16 @@ Jeu avec Joker:
 	-La pioche de victoire est déclenchée par une attaque réussie.
 	-Le joueur actif pioche une carte et l'ajoute à sa main.
 	-Cette pioche est disponible à tout tour, aucune exception.
-	
+
+12.17 Pioche d'élimination:
+	-La pioche d'élimination est déclenchée par l'élimination d'un joueur.
+	-Le joueur responsable de l'élimination pioche une carte et l'ajoute à sa main.
+	-Cette pioche est disponible à tout tour, aucune exception.
+
 ------------------------------------
 13. Cibles / tactiques / stratégies:
 ------------------------------------
-En général, il est possible de cibler n'importe quel joueur avec les actions (section 6.1 à 6.4).
+En général, il est possible de cibler n'importe quelle fleur/joueur avec les actions (section 6.1 à 6.4).
 
 Il pourrait semble contre-productif d'utiliser:
 	-un coeur sur l'adversaire;
@@ -575,15 +590,16 @@ Il pourrait semble contre-productif d'utiliser:
 	-un carreau sur l'adversaire;
 
 Ces actions peuvent donner un avantage stratégique au joueur qui les utilise au moment opportun:
-	-Utiliser un coeur sur l'adversaire peut être utile pour:
+	13.1. Utiliser un coeur sur l'adversaire peut être utile pour:
 		-Contre une fleur régulière, le nouveau pétale ainsi ajouté prend le dessus sur le pétale du dessus précédent.
 		-Peut être utilisé sur une fleur forte pour l'affaiblir et espérer gagner la fleur avec sa carte forte.
-	-Utiliser un pique sur soi peut être utile pour:
+	13.2. Utiliser un pique sur soi peut être utile pour:
 		-Détruire un pétale de faible force et espérer en retourner un d'une force supérieure;
 		-Détruire un petit coeur déposé sur une fleur forte par un adversaire;
 		-Faire échouer une attaque en détruisant le dernier pétale d'une fleur (voir section 7.5), espérer que l'adversaire ne sera pas capable de gagner d'autres attaques et ainsi lui faire perdre sa pioche de victoire.
-	-Utiliser un carreau sur un adversaire peut être utile pour:
+	13.3 Utiliser un carreau sur un adversaire peut être utile pour:
 		-Rendre visible tous les pétales d'une fleur dans l'espoir de pouvoir utiliser un pique fort pour affaiblir ladite fleur.
-	-Choisir un pétale faible d'une PF pour volontairement perdre une bataille.
+	13.4 Choisir un pétale faible d'une PF pour volontairement perdre une bataille.
 		-Peut être utile pour préserver un pétale fort plutôt que de gaspiller ce pétale contre une fleur faible.
-		-Voir section 7.4, Exemple 2.
+		-Voir section 7.4, Exemple 2.	
+
