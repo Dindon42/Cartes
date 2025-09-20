@@ -219,7 +219,7 @@ Johanne (J3)    Évelyne (J1)
 	5.1.Pioche (tour entier):
 		-Cette action n'est pas disponible au premier tour, ni si le tour précédent était l'action Pioche (tour entier).
 		-Si le joueur choisit Pioche (tour entier), son tour se termine immédiatement et l'action pioche ne sera pas disponible au tour suivant.
-		-Passer à 5.6.
+		-Passer à 5.7.
 	5.2.Jouer une/des cartes de sa main (voir section 6):
 		-Peut cibler soi-même ou un adversaire.
 		-Aucune réplique de l'adversaire possible à ce stade, seul le joueur actif peut jouer.
@@ -249,13 +249,16 @@ Johanne (J3)    Évelyne (J1)
 				-Fleur attaquante non-unique: La fleur attaquante est épuisée;
 				ou
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
-	5.4 Condition de fin du tour (après une attaque réussie, ou épuisement de toutes les fleurs attaquantes ou défendantes) ou poursuite de l'attaque:
+	5.4 Création de nouvelles fleurs:
+		-Le joueur actif peut (optionnel) créer des nouvelles fleurs avec ses cartes en main, pour lui permettre de continuer son tour si toutes ses autres fleurs sont épuisées.:
+		-Vérifier transitions fleurs multiples (voir section 12.10)
+	5.5 Condition de fin du tour (après une attaque réussie, ou épuisement de toutes les fleurs attaquantes ou défendantes) ou poursuite de l'attaque:
 		-Une attaque réussie met immédiatement fin au tour du joueur actif, après application de tous les effets listés à 5.3.4.
 			-Le joueur actif ne peut donc réussir au maximum qu’une seule attaque par tour.
 		-Si aucune attaque n’a réussi, le joueur peut répéter 5.2 (jouer des cartes de la main) et 5.3 (attaquer avec une fleur) jusqu’à ce que:
 			-Toutes ses fleurs soient épuisées (fleurs attaquantes multiples); ou
 			-Toutes les fleurs adverses soient épuisées (fleur attaquante unique).
-	5.5 Conditions d'élimination et de victoire:
+	5.6 Conditions d'élimination et de victoire:
 		-Vérification de l'élimination des adversaires:
 			-Si un adversaire n'a plus de fleur celui-ci est éliminé.
 		-Vérification de victoire du joueur actif:
@@ -263,11 +266,11 @@ Johanne (J3)    Évelyne (J1)
 		-Vérification de mort du joueur actif:
 			-Si le joueur actif n'a plus de fleurs, le joueur actif est éliminé.
 		-Dans une partie à 3 joueurs ou plus, lorsqu'un joueur est éliminé, le joueur responsable de cette élimination pioche immédiatement une carte supplémentaire (pioche d'élimination).
-	5.6.Fin du tour:
+	5.7.Fin du tour:
 		-Toutes les fleurs épuisées (jardin de l'attaquant et tous les jardins adverses) redeviennent actives.
 		-On passe au joueur suivant, dans le sens horaire.
 
-Note: Le joueur actif peut décider de terminer son tour volontairement à tout moment, auquel cas il ne pourra pas exécuter de pioche de victoire, passer directement à l'étape 5.5, puis 5.6.
+Note: Le joueur actif peut décider de terminer son tour volontairement à tout moment, auquel cas il ne pourra pas exécuter de pioche de victoire, passer directement à l'étape 5.6, puis 5.7.
 
 ---------------------------------------------
 6. Actions - Jouer une/des cartes de sa main:
