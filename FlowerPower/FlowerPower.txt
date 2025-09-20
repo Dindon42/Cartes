@@ -284,6 +284,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 
     Effet:
 	Le joueur défausse la carte poison et le pétale cible après utilisation du poison.
+	Si la cible est un pétale combattant (étape 5.3.2), révéler un nouveau pétale (fleurs régulières) ou sélectionner un nouveau pétale combattant (POWER FLOWERs)
 	
 	N.B. L'action poison ne peut être contrée, mais le joueur ciblé peut jouer une/des cartes en réplique si l'action poison a été jouée à 5.3.2.  L'action poison se résout immédiatement, le pétale ciblé est détruit sans possibilité de prévenir sa destruction. Si joué lors d'une bataille (5.3.2), les joueurs peuvent néanmoins continuer à jouer des cartes tant que la bataille n'est pas résolue.
 	
@@ -405,9 +406,15 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 		
 	Exemple 2: Une super-fleur [Q,5,2] attaque une fleur régulière [caché,caché,caché].  Le défendeur révèle le pétale du dessus de sa fleur: [6,caché,caché].  L'attaquant, jugeant que sa dame pourrait mieux servir (se battre contre un pétale plus fort que le 6 de l'adversaire), décide de choisir son 2 comme pétale attaquant.  L'attaque échoue.
 
-7.5 Si une des deux fleurs se fait détruire (via usage du poison) durant une attaque, l'attaque échoue.
+7.5 Si une des deux fleurs (attaquante ou defendante) se fait détruire (tombe à 0 pétales via usage du poison) durant une attaque, l'attaque échoue.
 
 	Exemple: Laurent attaque avec une fleur de 3 pétales contre une fleur à 1 pétale, si son adversaire utilise un poison pour détruire le dernier pétale de sa fleur qui défend, l'attaque échoue.
+
+7.6 Reconfiguration dynamique des fleurs combattantes:
+	Si un pique, un coeur ou un carreau affecte les fleurs combattantes durant la phase de bataille (5.3.1 et 5.3.2), la reconfiguration des fleurs de fait de manière dynamique. Le bataille continue.
+	-Pique: révéler ou sélectionner un nouveau pétale au besoin (si destruction du pétale du dessus et 2e pétale caché, bris d'égalité, etc.).
+	-Coeur: utiliser le nouveau pétale dans la comparaison des forces des fleurs.
+	-Carreau: Permettre au propriétaire de sélectionner le pétale attaquant/défendant au moment de la transformation en PF.
 
 
 ---------------------
