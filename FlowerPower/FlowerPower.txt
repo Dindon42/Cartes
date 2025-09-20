@@ -19,7 +19,7 @@ Relecture et commentaires: P. Labrèche.
 1. Préparation:
 ---------------
 1.1 Nombre de joueurs: 2 ou +
-	-Recommendation: 3 joueurs
+	-Recomendation: 3 joueurs
 
 1.2 Nécessite un jeu de 54 cartes pour une partie à 2 ou 3 joueurs.
 	-À partir de 4 joueurs, utiliser plusieurs paquets.
@@ -447,7 +447,7 @@ Varier la distribution initiale au goût:
 		-Joueur avancé:
 			a.Donner moins de cartes pétales à un joueur avancé.
 			b.Donner moins de cartes en main à un joueur avancé.
-	10.4 Règles générales pour la distribution initiales (à respecter en tout temps):
+	10.4 Règles générales pour la distribution initiale (à respecter en tout temps):
 		-Décider du nombre de paquets (54 cartes pour 1, 108 cartes pour 2, etc.)
 		-Choisir un nombre de cartes pétales qui sera le même pour tous les joueurs.
 		-Choisir un nombre de cartes en main de base (MB).  Choisir dans l'intervalle [-1:10].
