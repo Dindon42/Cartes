@@ -250,7 +250,7 @@ Johanne (J3)    Évelyne (J1)
 				ou
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
 	5.4 Création de nouvelles fleurs:
-		-Le joueur actif peut (optionnel) créer des nouvelles fleurs avec ses cartes en main, pour lui permettre de continuer son tour si toutes ses autres fleurs sont épuisées.:
+		-Le joueur actif peut (optionnel) créer des nouvelles fleurs avec ses cartes en main, pour lui permettre de continuer son tour si toutes ses autres fleurs sont épuisées.
 		-Vérifier transitions fleurs multiples (voir section 12.10)
 	5.5 Condition de fin du tour (après une attaque réussie, ou épuisement de toutes les fleurs attaquantes ou défendantes) ou poursuite de l'attaque:
 		-Une attaque réussie met immédiatement fin au tour du joueur actif, après application de tous les effets listés à 5.3.4.
@@ -347,7 +347,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 	Cibles: Fleur (sienne, adverse), Main (adverse)
 	
 	Effet:
-		-Sur le plateau de jeu: l'ordre des pétales doit être conservé.
+		-Espionnage de fleur sur le plateau de jeu: l'ordre des pétales doit être conservé.
 		-Main adverse: Observation.  Modification d'ordre non-applicable.
 		-On met la carte espion au GraveRyard après utilisation.
 	
@@ -361,7 +361,7 @@ Note: Le joueur actif peut décider de terminer son tour volontairement à tout 
 		-Les pétales sont tous cachés.
 		-Peut inclure les jokers.
 		
-	N.B. Contrairement à la création de fleurs dans la préparation des jardins (section 3.3) un minimum de 3 cartes est nécessaire pour créer une fleur avec l'action 6.5
+	N.B. Contrairement à la création de fleurs dans la préparation des jardins (section 3.3) un minimum de 3 cartes est nécessaire pour créer une fleur avec l'action FR3+
 
 6.6 Jouer 4 cartes ou plus (minimum 1 de chaque couleur) - Action: créer une POWER FLOWER (PF4+):
 	Un joueur peut créer une super-fleur dans son propre jardin avec au minimum 4 cartes, dont une de chaque couleur.
