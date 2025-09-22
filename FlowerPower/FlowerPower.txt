@@ -244,12 +244,14 @@ Johanne (J3)    Évelyne (J1)
 				-Pioche de victoire:
 					-La pioche de victoire est disponible à tout tour (même au premier tour ou si le joueur a exécuté l'action Pioche (tour entier) au dernier tour).
 				-Dernière volonté (cas spécial, voir 8.2 et 12.11) - aucune réplique possible de l'adversaire.
+				-Passer directement à 5.5.
 			Attaque échouée:
 				-Aucun pétale defaussé;
 				-Fleur attaquante non-unique: La fleur attaquante est épuisée;
 				ou
 				-Fleur attaquante unique: Fleur défendante épuisée, qu'elle soit unique ou non.
-	5.4 Création de nouvelles fleurs:
+				-Passer à 5.4.
+	5.4 Création de nouvelles fleurs (en cas d'attaque échouée):
 		-Le joueur actif peut (optionnel) créer des nouvelles fleurs avec ses cartes en main, pour lui permettre de continuer son tour si toutes ses autres fleurs sont épuisées.
 		-Vérifier transitions fleurs multiples (voir section 12.10)
 	5.5 Condition de fin du tour (après une attaque réussie, ou épuisement de toutes les fleurs attaquantes ou défendantes) ou poursuite de l'attaque:
