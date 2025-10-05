@@ -235,7 +235,7 @@ Johanne (J3)    Évelyne (J1)
 			b. Le défendant peut jouer une/des carte de sa main en réplique (voir section 6);
 			c. Vérifier transitions fleurs multiples / unique (voir section 12.10);
 			
-			Note: Si à tout moment les fleurs combattantes subissent une reconfiguration dynamique, immédiatement forcer la mise à jour des fleurs en exécutant l'action 5.3.1 (voir section 7.4 et 7.6)
+			Note: Si à tout moment les fleurs combattantes subissent une reconfiguration dynamique, immédiatement forcer la mise à jour des fleurs en exécutant l'action 5.3.1, puis 5.3.2.
 			
 			Répéter 5.3.2 jusqu'à ce que les 2 joueurs passent de manière consécutive.
 		5.3.3 Si au moins une POWER FLOWER est impliquée dans l'attaque, répéter 5.3.1 et 5.3.2 jusqu'à ce que les pétales combattants soient confirmés par les propriétaires desdites PF.
