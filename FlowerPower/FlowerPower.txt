@@ -233,7 +233,10 @@ Johanne (J3)    Évelyne (J1)
 		5.3.2 Déroulement de la bataille des fleurs: en alternance, en commençant par l'attaquant:
 			a. L'attaquant peut jouer une/des carte de sa main (voir section 6);
 			b. Le défendant peut jouer une/des carte de sa main en réplique (voir section 6);
-			c. Vérifier transitions fleurs multiples / unique (voir section 12.10)
+			c. Vérifier transitions fleurs multiples / unique (voir section 12.10);
+			
+			Note: Si à tout moment les fleurs combattantes subissent une reconfiguration dynamique, immédiatement forcer la mise à jour des fleurs en exécutant l'action 5.3.1 (voir section 7.4 et 7.6)
+			
 			Répéter 5.3.2 jusqu'à ce que les 2 joueurs passent de manière consécutive.
 		5.3.3 Si au moins une POWER FLOWER est impliquée dans l'attaque, répéter 5.3.1 et 5.3.2 jusqu'à ce que les pétales combattants soient confirmés par les propriétaires desdites PF.
 		5.3.4 Résolution de l'attaque. (Voir section 7.4):
@@ -591,6 +594,9 @@ Jeu avec Joker:
 	-La pioche d'élimination est déclenchée par l'élimination d'un joueur.
 	-Le joueur responsable de l'élimination pioche une carte et l'ajoute à sa main.
 	-Cette pioche est disponible à tout tour, aucune exception.
+
+12.18 Reconfiguration dynamique:
+Lors d'une bataille de fleurs, immédiatement forcer la resélection des pétales combattants après usage des cartes en main  (voir section 5.3.1, 5.3.2, 7.4 et 7.6)
 
 ------------------------------------
 13. Cibles / tactiques / stratégies:
