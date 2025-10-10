@@ -620,5 +620,38 @@ Ces actions peuvent donner un avantage stratégique au joueur qui les utilise au
 		-Rendre visible tous les pétales d'une fleur dans l'espoir de pouvoir utiliser un pique fort pour affaiblir ladite fleur.
 	13.4 Choisir un pétale faible d'une PF pour volontairement perdre une bataille.
 		-Peut être utile pour préserver un pétale fort plutôt que de gaspiller ce pétale contre une fleur faible.
-		-Voir section 7.4, Exemple 2.	
+		-Voir section 7.4, Exemple 2.
+
+
+==========================
+14. FAQ pour Flower Power!
+==========================
+14.1
+Question : Que se passe-t-il exactement lors d'un bris d'égalité impliquant une POWER FLOWER si des actions comme un poison ou un engrais sont jouées au milieu du processus ?
+
+Réponse : Lors d'un bris d'égalité (section 7.3), si une POWER FLOWER est impliquée et qu'une action (comme un poison détruisant un pétale ou un engrais en ajoutant un) modifie la fleur belligérante pendant la phase de bataille (5.3.2), appliquez immédiatement une reconfiguration dynamique (7.6). Le propriétaire de la PF resélectionne un pétale pour le niveau actuel d'égalité, et continuez la révélation/sélection subséquente si nécessaire. Par exemple, si un poison détruit le pétale sélectionné pour le deuxième niveau d'égalité, resélectionnez un nouveau pétale pour ce niveau avant de procéder au suivant. Seuls les pétales initiaux (premier niveau) sont défaussés en cas de victoire.
+
+
+14.2
+Question : Peut-on jouer plusieurs cartes lors d'une Dernière Volonté, et comment cela s'applique-t-il dans une partie à 3+ joueurs ?
+
+Réponse : La Dernière Volonté (sections 8.2 et 12.11) est une action unique qui peut consommer une ou plusieurs cartes de la main pour exécuter une seule action de la section 6, sans réplique adverse. Par exemple, vous pourriez jouer plusieurs cartes pour créer une fleur (FR3+ ou PF4+), ou utiliser un seul pique comme poison. Il n'est pas possible d'enchaîner plusieurs actions distinctes au sein d'une même Dernière Volonté (ex. : créer une fleur puis l'améliorer séparément). La seule possibilité d'enchaînement est dans une partie à 3+ joueurs : si la Dernière Volonté élimine un joueur, vous piochez une carte d'élimination et pouvez alors exécuter une autre Dernière Volonté unique (pas de boucle infinie si aucun éliminé supplémentaire).
+
+
+14.3
+Question : Comment gère-t-on les transitions entre fleurs uniques et multiples en milieu de tour, particulièrement pour les fleurs épuisées adverses ?
+
+Réponse : Lors d'une transition en cours de tour (section 12.10), appliquez les effets immédiatement. Si un joueur passe de fleurs multiples à unique (ex. : en perdant une fleur via un sabotage), sa fleur unique se réactive si elle était épuisée, et elle peut attaquer chaque fleur adverse une fois (même celles précédemment épuisées, qui redeviennent actives). Inversement, si un joueur passe d'unique à multiples (ex. : en créant une nouvelle fleur), les fleurs adverses épuisées redeviennent actives et peuvent être attaquées par les nouvelles fleurs. À la fin du tour, toutes les épuisées (alliées ou adverses) se réactivent globalement.
+
+
+14.4
+Question : Quelle est la force exacte d'un joker quand il est un pétale dans une fleur, et peut-on changer sa fonction (couleur) une fois placé ?
+
+Réponse : Un joker utilisé comme pétale (sections 3.3, 6.5-6.6, 11) possède une force maximale de 15, supérieure à celle de l'As (14). Sa fonction (couleur) n'est pas applicable en tant que pétale, donc aucune spécification n'est requise lors de son placement dans une fleur régulière. Une fois en place, il ne peut être modifié. Toutefois, pour respecter les exigences de couleurs lors de la création d'une POWER FLOWER (PF4+, section 6.6), un Joker Noir peut servir de pique ou de trèfle, et un Joker Rouge de coeur ou de carreau ; choisissez la couleur au moment du placement afin de remplir le critère d'une carte par couleur.
+
+
+14.5
+Question : Que faire si la pioche et le GraveRyard sont tous deux vides pendant une partie ?
+
+Réponse : Si la pioche est vide et que le GraveRyard l'est aussi (cas rare, sections 1.4-1.6), continuez la partie sans pioche possible (y compris victoires ou éliminations). Les joueurs ne peuvent plus piocher de cartes, ce qui force à jouer avec les mains et jardins existants. Cela peut mener à une impasse si personne ne peut attaquer victorieusement ; dans ce cas, déclarez une égalité ou recommencez la partie. Pour éviter cela, utilisez plusieurs paquets dans des parties longues (section 10).
 
