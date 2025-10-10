@@ -140,7 +140,7 @@ Johanne (J3)    Évelyne (J1)
 
 3.2 Chaque joueur prend connaissance de sa main.
 
-3.3 Chaque joueur construit des fleurs régulières, à sa guise, avec ses cartes pétales:
+3.3 Chaque joueur construit des fleurs régulières, à sa guise, avec ses cartes pétales face cachées:
 	-Nombre de fleurs au choix;
 	-Nombre de pétales par fleur: minimum 2;
 	
