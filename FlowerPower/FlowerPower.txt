@@ -217,7 +217,7 @@ Johanne (J3)    Évelyne (J1)
 
 
 	5.1.Pioche (tour entier):
-		-Cette action n'est pas disponible au premier tour, ni si le tour précédent était l'action Pioche (tour entier).
+		-Cette action n'est pas disponible au premier tour de chaque joueur, ni si le tour précédent était l'action Pioche (tour entier).
 		-Si le joueur choisit Pioche (tour entier), son tour se termine immédiatement et l'action pioche ne sera pas disponible au tour suivant.
 		-Passer à 5.7.
 	5.2.Jouer une/des cartes de sa main (voir section 6):
